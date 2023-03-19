@@ -1,0 +1,17 @@
+/* Primary Colors */
+.pri-color,.banner-news .banner-news-caption a.news-category:visited{color:#4d9e91;}
+
+.popular-news-snippet .summary .news-category,.pri-bg-color,.jetpack_subscription_widget,.widget_search,.search-submit,.banner-news-2 .banner-news-caption{background-color: #4d9e91;}
+
+h5.widget-title,h5.category{margin: 15px 0;text-transform: uppercase;color: #4d9e91;}
+h5.category a{color: #4d9e91;}
+h5.widget-title{text-align: center;display: block;}
+
+section.main-nav .navbar-inverse .navbar-nav > .active > a, section.main-nav .navbar-inverse .navbar-nav > .active > a:hover, section.main-nav .navbar-inverse .navbar-nav > .active > a:focus{color: #4d9e91;}
+.home-pages .page-home-summary h5.category:hover{background: #4d9e91; color: #fff;}
+.home-pages .page-home-summary h5.category:hover a{ color: #fff;}
+/* Secondary Colors */ 
+.sec-color,a, h2.news-heading,h4.news-title a:hover{color: #ef7583;text-decoration: none;}
+.sec-bg-color{background-color: #ef7583;}
+
+/* premium css code control*/
