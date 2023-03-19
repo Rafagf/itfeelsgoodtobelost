@@ -1,0 +1,21 @@
+/* premium css code control*/
+
+body{font: 400 14px/23px Droid Serif;}
+
+/* Primary Colors */
+.pri-color,.banner-news .banner-news-caption a.news-category:visited{color:#4d9e91;}
+
+.popular-news-snippet .summary .news-category,.pri-bg-color,.jetpack_subscription_widget,.widget_search,.search-submit{background-color: #4d9e91;}
+
+h3.widget-title,h5.category{font-size: 0.85em;margin: 0;text-transform: uppercase;color: #4d9e91;margin-bottom: 10px;display: inline-block;letter-spacing: 2px;}
+h5.category a{color: #4d9e91;}
+h3.widget-title{text-align: center;display: block;}
+
+section.main-nav .navbar-inverse .navbar-nav > .active > a, section.main-nav .navbar-inverse .navbar-nav > .active > a:hover, section.main-nav .navbar-inverse .navbar-nav > .active > a:focus{color: #4d9e91;}
+.home-pages .page-home-summary h5.category:hover{background: #4d9e91; color: #fff;}
+.home-pages .page-home-summary h5.category:hover a{ color: #fff;}
+/* Secondary Colors */ 
+.sec-color,a, a:visited,h2.news-heading,h4.news-title a:hover{color: #ef7583;}
+.news-ticker b,.sec-bg-color{background-color: #ef7583;}
+
+/* premium css code control*/

@@ -1,0 +1,44 @@
+= Changelog =
+
+Tested up to: 4.9.4
+
+
+= Version 1.0.3=
+
+Release Date: April 15, 2018
+
+i)   Footer credit text  changed to TheBootstrapThesm
+ii)  Index.php made default post loop and added template-home.php and front-home.php
+iii) Newsletter and Instagram option added
+iv)  Escaping issue fixed
+v)   Add credit to Owl-Caraousel
+
+
+
+
+= Version 1.0.2=
+
+Release Date: April 15, 2018
+
+i)   Multiple font option for all headings
+
+
+
+= Version 1.0.1=
+
+Release Date: April 10, 2018
+
+i)   CSS for the widget
+ii)  Page block in the home page
+iii) Single Page widget removed
+iv)  template-home.php removed
+
+
+
+
+
+= Version 1.0.0=
+
+Release Date: March 3, 2018
+
+i) Intial version Release

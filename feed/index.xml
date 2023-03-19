@@ -9,7 +9,7 @@
 
 <channel>
 	<title>It feels good to be lost</title>
-	<atom:link href="http://localhost/itfeelsgoodtobelost/feed/?simply_static_page=123" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/itfeelsgoodtobelost/feed/?simply_static_page=3178" rel="self" type="application/rss+xml" />
 	<link>https://rafagf.github.io/itfeelsgoodtobelost/</link>
 	<description>Iga and Rafa. Long term travellers couple venturing around the world. Sharing our stories and tips for authentic experience seekers. The best plan is to say yes to new adventures!</description>
 	<lastBuildDate>Fri, 21 Feb 2020 18:28:53 +0000</lastBuildDate>
@@ -1802,5 +1802,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 
 Page Caching using disk: enhanced (Requested URI contains query) 
 
-Served from: localhost @ 2023-03-18 20:50:51 by W3 Total Cache
+Served from: localhost @ 2023-03-19 09:33:30 by W3 Total Cache
 -->
