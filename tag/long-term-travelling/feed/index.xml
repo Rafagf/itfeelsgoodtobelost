@@ -9,7 +9,7 @@
 
 <channel>
 	<title>long-term travelling Archives - It feels good to be lost</title>
-	<atom:link href="http://localhost/itfeelsgoodtobelost/tag/long-term-travelling/feed/?simply_static_page=3676" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/itfeelsgoodtobelost/tag/long-term-travelling/feed/?simply_static_page=27870" rel="self" type="application/rss+xml" />
 	<link>https://rafagf.github.io/itfeelsgoodtobelost/tag/long-term-travelling/</link>
 	<description>Iga and Rafa. Long term travellers couple venturing around the world. Sharing our stories and tips for authentic experience seekers. The best plan is to say yes to new adventures!</description>
 	<lastBuildDate>Fri, 14 Sep 2018 14:55:13 +0000</lastBuildDate>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<generator>https://wordpress.org/?v=6.2</generator>
 
 <image>
 	<url>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/06/cropped-cropped-copy-of-copy-of-star-onboarding-title-page-e1529730874184-1-32x32.png</url>
@@ -452,5 +452,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 
 Page Caching using disk: enhanced (Requested URI contains query) 
 
-Served from: localhost @ 2023-03-19 09:42:49 by W3 Total Cache
+Served from: localhost @ 2023-04-03 18:10:02 by W3 Total Cache
 -->
