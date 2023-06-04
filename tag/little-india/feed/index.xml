@@ -9,10 +9,10 @@
 
 <channel>
 	<title>little india Archives - It feels good to be lost</title>
-	<atom:link href="http://localhost/itfeelsgoodtobelost/tag/little-india/feed/?simply_static_page=50725" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/itfeelsgoodtobelost/tag/little-india/feed/?simply_static_page=53995" rel="self" type="application/rss+xml" />
 	<link>https://rafagf.github.io/itfeelsgoodtobelost/tag/little-india/</link>
 	<description>Iga and Rafa. Travellers couple venturing around the world. Sharing our stories and tips for authentic experience seekers. The best plan is to say yes to new adventures!</description>
-	<lastBuildDate>Sun, 04 Jun 2023 18:12:04 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 04 Jun 2023 19:06:30 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -587,9 +587,8 @@
 								<div class="elementor-text-editor elementor-clearfix">
 				<p style="box-sizing: inherit; color: #333333;"><br>That&#8217;s<span style="box-sizing: inherit;"> a wrap! Hope you enjoyed reading. If you did, you may also find interesting…</span></p>
 <ul style="color: #333333;">
-<li style="box-sizing: inherit;"><em style="box-sizing: inherit;"><a style="box-sizing: inherit;" href="https://rafagf.github.io/itfeelsgoodtobelost/why-koh-chang-is-the-best-island-in-thailand/">Why Koh Chang is the best island in Thailand</a></em></li>
-<li style="box-sizing: inherit;"><em style="box-sizing: inherit;"><a style="box-sizing: inherit;" href="https://rafagf.github.io/itfeelsgoodtobelost/bangkok-from-koh-samui/" data-wplink-url-error="true">Bangkok from Koh Samui: the easy way</a></em></li>
-<li style="box-sizing: inherit;"><em style="box-sizing: inherit;"><a style="box-sizing: inherit;" href="https://rafagf.github.io/itfeelsgoodtobelost/3-week-vietnam-itinerary/">3 week Vietnam itinerary from north to south</a></em></li>
+<li style="box-sizing: inherit;"><em style="box-sizing: inherit;"><span style="box-sizing: inherit;"><a href="https://itfeelsgoodtobelost.com/why-koh-chang-is-the-best-island-in-thailand/">Why Koh Chang is the best island in Thailand</a></span></em></li>
+<li style="box-sizing: inherit;"><em style="box-sizing: inherit;"><span style="box-sizing: inherit;"><a href="https://itfeelsgoodtobelost.com/3-week-vietnam-itinerary/">3 week Vietnam itinerary from north to south</a></span></em><br></li>
 </ul>					</div>
 						</div>
 				</div>
@@ -618,5 +617,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 
 Page Caching using disk: enhanced (Requested URI contains query) 
 
-Served from: localhost @ 2023-06-04 18:25:56 by W3 Total Cache
+Served from: localhost @ 2023-06-04 19:25:20 by W3 Total Cache
 -->

@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Vietnam Archives - It feels good to be lost</title>
-	<atom:link href="http://localhost/itfeelsgoodtobelost/tag/vietnam/feed/?simply_static_page=50676" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/itfeelsgoodtobelost/tag/vietnam/feed/?simply_static_page=53946" rel="self" type="application/rss+xml" />
 	<link>https://rafagf.github.io/itfeelsgoodtobelost/tag/vietnam/</link>
 	<description>Iga and Rafa. Travellers couple venturing around the world. Sharing our stories and tips for authentic experience seekers. The best plan is to say yes to new adventures!</description>
-	<lastBuildDate>Sun, 28 May 2023 19:59:55 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 04 Jun 2023 18:40:53 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -196,9 +196,9 @@
 <p><em style="color: #333333;">You may also find it interesting…</em></p>
 <section style="flex-basis: var(--flex-basis); flex-grow: var(--flex-grow); flex-shrink: var(--flex-shrink); order: var(--order); align-self: var(--align-self); --swiper-theme-color: #000; --swiper-navigation-size: 44px; --swiper-pagination-bullet-size: 6px; --swiper-pagination-bullet-horizontal-gap: 6px; --widgets-spacing: 20px;" data-id="5fa24883" data-element_type="section">
 <ul>
-<li><em><a href="https://rafagf.github.io/itfeelsgoodtobelost/why-koh-chang-is-the-best-island-in-thailand/" data-wplink-url-error="true">Why Koh Chang is the best island in Thailand</a></em></li>
-<li><a href="https://rafagf.github.io/itfeelsgoodtobelost/exploring-koh-samet-travel-guide/" data-wplink-url-error="true">Exploring Koh Samet</a></li>
-<li><a href="https://rafagf.github.io/itfeelsgoodtobelost/one-cheap-day-in-singapore/" data-wplink-url-error="true">One cheap day in Singapore</a></li>
+<li><em><a href="http://itfeelsgoodtobelost.com/why-koh-chang-is-the-best-island-in-thailand/">Why Koh Chang is the best island in Thailand</a></em></li>
+<li><a href="http://itfeelsgoodtobelost.com/exploring-koh-samet-travel-guide/">Exploring Koh Samet</a></li>
+<li><a href="http://itfeelsgoodtobelost.com/one-cheap-day-in-singapore/">One cheap day in Singapore</a></li>
 </ul>
 </section>
 <h3>Sharing is caring!</h3>
@@ -481,5 +481,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 
 Page Caching using disk: enhanced (Requested URI contains query) 
 
-Served from: localhost @ 2023-06-04 18:25:36 by W3 Total Cache
+Served from: localhost @ 2023-06-04 19:25:10 by W3 Total Cache
 -->
