@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Tokyo Archives - It feels good to be lost</title>
-	<atom:link href="http://localhost/itfeelsgoodtobelost/tag/tokyo/feed/?simply_static_page=47530" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/itfeelsgoodtobelost/tag/tokyo/feed/?simply_static_page=50801" rel="self" type="application/rss+xml" />
 	<link>https://rafagf.github.io/itfeelsgoodtobelost/tag/tokyo/</link>
 	<description>Iga and Rafa. Travellers couple venturing around the world. Sharing our stories and tips for authentic experience seekers. The best plan is to say yes to new adventures!</description>
 	<lastBuildDate>Thu, 28 Jun 2018 03:55:15 +0000</lastBuildDate>
@@ -68,5 +68,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 
 Page Caching using disk: enhanced (Requested URI contains query) 
 
-Served from: localhost @ 2023-06-04 16:29:09 by W3 Total Cache
+Served from: localhost @ 2023-06-04 18:26:17 by W3 Total Cache
 -->

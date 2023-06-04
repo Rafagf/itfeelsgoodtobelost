@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://rafagf.github.io/itfeelsgoodtobelost/</loc>
-		<lastmod>2023-06-04T16:22:21+00:00</lastmod>
+		<lastmod>2023-06-04T18:12:04+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://rafagf.github.io/itfeelsgoodtobelost/here-we-go/</loc>
@@ -301,7 +301,7 @@
 	</url>
 	<url>
 		<loc>https://rafagf.github.io/itfeelsgoodtobelost/travel-to-singapore-on-a-budget/</loc>
-		<lastmod>2023-06-04T16:22:21+00:00</lastmod>
+		<lastmod>2023-06-04T18:12:04+00:00</lastmod>
 		<image:image>
 			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/08/LRM_EXPORT_20180802_213331.jpg</image:loc>
 		</image:image>
@@ -333,7 +333,7 @@
 			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/08/LRM_EXPORT_20180802_213929-768x689.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/elementor/thumbs/DSC01161-nua077na9db27rzjzd1sm0a9fmlspoy84l6g3jttk0.jpg</image:loc>
+			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/elementor/thumbs/DSC01161-q3pn6kl0uy2sm2mgwd8cfsygbv1wqcx89841sqlf4w.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/08/DSC01246-1024x731.jpg</image:loc>
@@ -349,5 +349,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 
 Page Caching using disk: enhanced (Requested URI contains query) 
 
-Served from: localhost @ 2023-06-04 16:27:34 by W3 Total Cache
+Served from: localhost @ 2023-06-04 18:23:25 by W3 Total Cache
 -->
