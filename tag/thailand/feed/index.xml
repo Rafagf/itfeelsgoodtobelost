@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Thailand Archives - It feels good to be lost</title>
-	<atom:link href="http://localhost/itfeelsgoodtobelost/tag/thailand/feed/?simply_static_page=53965" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/itfeelsgoodtobelost/tag/thailand/feed/?simply_static_page=60175" rel="self" type="application/rss+xml" />
 	<link>https://rafagf.github.io/itfeelsgoodtobelost/tag/thailand/</link>
 	<description>Iga and Rafa. Travellers couple venturing around the world. Sharing our stories and tips for authentic experience seekers. The best plan is to say yes to new adventures!</description>
 	<lastBuildDate>Sun, 04 Jun 2023 18:43:17 +0000</lastBuildDate>
@@ -210,5 +210,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 
 Page Caching using disk: enhanced (Requested URI contains query) 
 
-Served from: localhost @ 2023-06-04 19:25:15 by W3 Total Cache
+Served from: localhost @ 2023-06-06 21:18:33 by W3 Total Cache
 -->
