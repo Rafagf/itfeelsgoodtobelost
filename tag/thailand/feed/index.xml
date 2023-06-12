@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Thailand Archives - It feels good to be lost</title>
-	<atom:link href="http://localhost/itfeelsgoodtobelost/tag/thailand/feed/?simply_static_page=63445" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/itfeelsgoodtobelost/tag/thailand/feed/?simply_static_page=66715" rel="self" type="application/rss+xml" />
 	<link>https://rafagf.github.io/itfeelsgoodtobelost/tag/thailand/</link>
 	<description>Iga and Rafa. Travellers couple venturing around the world. Sharing our stories and tips for authentic experience seekers. The best plan is to say yes to new adventures!</description>
 	<lastBuildDate>Sun, 04 Jun 2023 18:43:17 +0000</lastBuildDate>
@@ -32,7 +32,7 @@
 		<link>https://rafagf.github.io/itfeelsgoodtobelost/exploring-koh-samet-travel-guide/</link>
 					<comments>https://rafagf.github.io/itfeelsgoodtobelost/exploring-koh-samet-travel-guide/#respond</comments>
 		
-		<dc:creator><![CDATA[rafag]]></dc:creator>
+		<dc:creator><![CDATA[Rafa Garcia]]></dc:creator>
 		<pubDate>Wed, 17 May 2023 13:02:00 +0000</pubDate>
 				<category><![CDATA[Thailand]]></category>
 		<category><![CDATA[backpacking]]></category>
@@ -108,7 +108,7 @@
 		<title>Crossing the Cambodian border (and survive!)</title>
 		<link>https://rafagf.github.io/itfeelsgoodtobelost/crossing-the-cambodian-border/</link>
 		
-		<dc:creator><![CDATA[rafag]]></dc:creator>
+		<dc:creator><![CDATA[Rafa Garcia]]></dc:creator>
 		<pubDate>Mon, 07 May 2018 07:21:10 +0000</pubDate>
 				<category><![CDATA[Cambodia]]></category>
 		<category><![CDATA[angkor wat]]></category>
@@ -165,7 +165,7 @@
 		<title>Bangkok from Koh Samui: the easy way</title>
 		<link>https://rafagf.github.io/itfeelsgoodtobelost/bangkok-from-koh-samui/</link>
 		
-		<dc:creator><![CDATA[rafag]]></dc:creator>
+		<dc:creator><![CDATA[Rafa Garcia]]></dc:creator>
 		<pubDate>Thu, 03 May 2018 03:48:11 +0000</pubDate>
 				<category><![CDATA[Thailand]]></category>
 		<category><![CDATA[12goasia]]></category>
@@ -210,5 +210,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 
 Page Caching using disk: enhanced (Requested URI contains query) 
 
-Served from: localhost @ 2023-06-12 19:35:29 by W3 Total Cache
+Served from: localhost @ 2023-06-12 22:23:32 by W3 Total Cache
 -->

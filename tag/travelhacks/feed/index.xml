@@ -9,7 +9,7 @@
 
 <channel>
 	<title>travelhacks Archives - It feels good to be lost</title>
-	<atom:link href="http://localhost/itfeelsgoodtobelost/tag/travelhacks/feed/?simply_static_page=63463" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/itfeelsgoodtobelost/tag/travelhacks/feed/?simply_static_page=66733" rel="self" type="application/rss+xml" />
 	<link>https://rafagf.github.io/itfeelsgoodtobelost/tag/travelhacks/</link>
 	<description>Iga and Rafa. Travellers couple venturing around the world. Sharing our stories and tips for authentic experience seekers. The best plan is to say yes to new adventures!</description>
 	<lastBuildDate>Mon, 24 Sep 2018 10:51:08 +0000</lastBuildDate>
@@ -32,7 +32,7 @@
 		<link>https://rafagf.github.io/itfeelsgoodtobelost/3-rules-to-travel-cheap/</link>
 					<comments>https://rafagf.github.io/itfeelsgoodtobelost/3-rules-to-travel-cheap/#comments</comments>
 		
-		<dc:creator><![CDATA[rafag]]></dc:creator>
+		<dc:creator><![CDATA[Rafa Garcia]]></dc:creator>
 		<pubDate>Wed, 30 May 2018 07:00:01 +0000</pubDate>
 				<category><![CDATA[Travel]]></category>
 		<category><![CDATA[airbnb]]></category>
@@ -124,5 +124,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 
 Page Caching using disk: enhanced (Requested URI contains query) 
 
-Served from: localhost @ 2023-06-12 19:35:31 by W3 Total Cache
+Served from: localhost @ 2023-06-12 22:23:34 by W3 Total Cache
 -->

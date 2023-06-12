@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Thailand - It feels good to be lost</title>
-	<atom:link href="http://localhost/itfeelsgoodtobelost/category/thailand/feed/?simply_static_page=63250" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/itfeelsgoodtobelost/category/thailand/feed/?simply_static_page=66519" rel="self" type="application/rss+xml" />
 	<link>https://rafagf.github.io/itfeelsgoodtobelost/category/thailand/</link>
 	<description>Iga and Rafa. Travellers couple venturing around the world. Sharing our stories and tips for authentic experience seekers. The best plan is to say yes to new adventures!</description>
 	<lastBuildDate>Sun, 04 Jun 2023 19:19:55 +0000</lastBuildDate>
@@ -32,7 +32,7 @@
 		<link>https://rafagf.github.io/itfeelsgoodtobelost/best-things-to-do-in-koh-chang/</link>
 					<comments>https://rafagf.github.io/itfeelsgoodtobelost/best-things-to-do-in-koh-chang/#respond</comments>
 		
-		<dc:creator><![CDATA[rafag]]></dc:creator>
+		<dc:creator><![CDATA[Rafa Garcia]]></dc:creator>
 		<pubDate>Thu, 01 Jun 2023 17:38:00 +0000</pubDate>
 				<category><![CDATA[Thailand]]></category>
 		<category><![CDATA[backpacking]]></category>
@@ -97,7 +97,7 @@
 		<link>https://rafagf.github.io/itfeelsgoodtobelost/exploring-koh-samet-travel-guide/</link>
 					<comments>https://rafagf.github.io/itfeelsgoodtobelost/exploring-koh-samet-travel-guide/#respond</comments>
 		
-		<dc:creator><![CDATA[rafag]]></dc:creator>
+		<dc:creator><![CDATA[Rafa Garcia]]></dc:creator>
 		<pubDate>Wed, 17 May 2023 13:02:00 +0000</pubDate>
 				<category><![CDATA[Thailand]]></category>
 		<category><![CDATA[backpacking]]></category>
@@ -173,7 +173,7 @@
 		<title>Bangkok from Koh Samui: the easy way</title>
 		<link>https://rafagf.github.io/itfeelsgoodtobelost/bangkok-from-koh-samui/</link>
 		
-		<dc:creator><![CDATA[rafag]]></dc:creator>
+		<dc:creator><![CDATA[Rafa Garcia]]></dc:creator>
 		<pubDate>Thu, 03 May 2018 03:48:11 +0000</pubDate>
 				<category><![CDATA[Thailand]]></category>
 		<category><![CDATA[12goasia]]></category>
@@ -218,5 +218,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 
 Page Caching using disk: enhanced (Requested URI contains query) 
 
-Served from: localhost @ 2023-06-12 19:33:42 by W3 Total Cache
+Served from: localhost @ 2023-06-12 22:21:58 by W3 Total Cache
 -->

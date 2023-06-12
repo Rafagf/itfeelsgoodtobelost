@@ -9,7 +9,7 @@
 
 <channel>
 	<title>protest Archives - It feels good to be lost</title>
-	<atom:link href="http://localhost/itfeelsgoodtobelost/tag/protest/feed/?simply_static_page=63515" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/itfeelsgoodtobelost/tag/protest/feed/?simply_static_page=66793" rel="self" type="application/rss+xml" />
 	<link>https://rafagf.github.io/itfeelsgoodtobelost/tag/protest/</link>
 	<description>Iga and Rafa. Travellers couple venturing around the world. Sharing our stories and tips for authentic experience seekers. The best plan is to say yes to new adventures!</description>
 	<lastBuildDate>Wed, 07 Nov 2018 09:59:22 +0000</lastBuildDate>
@@ -31,7 +31,7 @@
 		<title>One weekend couchsurfing in Ho Chi Minh</title>
 		<link>https://rafagf.github.io/itfeelsgoodtobelost/couchsurfing-in-ho-chi-minh/</link>
 		
-		<dc:creator><![CDATA[rafag]]></dc:creator>
+		<dc:creator><![CDATA[Rafa Garcia]]></dc:creator>
 		<pubDate>Sat, 28 Jul 2018 06:59:06 +0000</pubDate>
 				<category><![CDATA[Vietnam]]></category>
 		<category><![CDATA[Cu chi tunnels]]></category>
@@ -109,5 +109,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 
 Page Caching using disk: enhanced (Requested URI contains query) 
 
-Served from: localhost @ 2023-06-12 19:35:45 by W3 Total Cache
+Served from: localhost @ 2023-06-12 22:23:46 by W3 Total Cache
 -->

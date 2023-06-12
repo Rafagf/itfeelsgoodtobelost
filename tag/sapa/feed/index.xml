@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Sapa Archives - It feels good to be lost</title>
-	<atom:link href="http://localhost/itfeelsgoodtobelost/tag/sapa/feed/?simply_static_page=63424" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/itfeelsgoodtobelost/tag/sapa/feed/?simply_static_page=66694" rel="self" type="application/rss+xml" />
 	<link>https://rafagf.github.io/itfeelsgoodtobelost/tag/sapa/</link>
 	<description>Iga and Rafa. Travellers couple venturing around the world. Sharing our stories and tips for authentic experience seekers. The best plan is to say yes to new adventures!</description>
 	<lastBuildDate>Sat, 10 Jun 2023 15:29:20 +0000</lastBuildDate>
@@ -32,7 +32,7 @@
 		<link>https://rafagf.github.io/itfeelsgoodtobelost/hanoi-travel-guide/</link>
 					<comments>https://rafagf.github.io/itfeelsgoodtobelost/hanoi-travel-guide/#respond</comments>
 		
-		<dc:creator><![CDATA[rafag]]></dc:creator>
+		<dc:creator><![CDATA[Rafa Garcia]]></dc:creator>
 		<pubDate>Tue, 06 Jun 2023 21:12:39 +0000</pubDate>
 				<category><![CDATA[Vietnam]]></category>
 		<category><![CDATA[ha long bay]]></category>
@@ -175,7 +175,7 @@
 		<link>https://rafagf.github.io/itfeelsgoodtobelost/three-week-vietnam-itinerary/</link>
 					<comments>https://rafagf.github.io/itfeelsgoodtobelost/three-week-vietnam-itinerary/#respond</comments>
 		
-		<dc:creator><![CDATA[rafag]]></dc:creator>
+		<dc:creator><![CDATA[Rafa Garcia]]></dc:creator>
 		<pubDate>Sun, 28 May 2023 16:21:24 +0000</pubDate>
 				<category><![CDATA[Vietnam]]></category>
 		<category><![CDATA[da lat]]></category>
@@ -440,5 +440,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 
 Page Caching using disk: enhanced (Requested URI contains query) 
 
-Served from: localhost @ 2023-06-12 19:35:17 by W3 Total Cache
+Served from: localhost @ 2023-06-12 22:23:26 by W3 Total Cache
 -->
