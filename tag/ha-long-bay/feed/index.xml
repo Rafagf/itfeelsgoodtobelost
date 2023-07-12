@@ -9,7 +9,7 @@
 
 <channel>
 	<title>ha long bay Archives - It feels good to be lost</title>
-	<atom:link href="http://localhost/itfeelsgoodtobelost/tag/ha-long-bay/feed/?simply_static_page=72817" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/itfeelsgoodtobelost/tag/ha-long-bay/feed/?simply_static_page=76250" rel="self" type="application/rss+xml" />
 	<link>https://rafagf.github.io/itfeelsgoodtobelost/tag/ha-long-bay/</link>
 	<description>Iga and Rafa. Travellers couple venturing around the world. Sharing our stories and tips for authentic experience seekers. The best plan is to say yes to new adventures!</description>
 	<lastBuildDate>Mon, 12 Jun 2023 22:50:03 +0000</lastBuildDate>
@@ -30,7 +30,6 @@
 	<item>
 		<title>Hanoi Travel Guide: Discovering the Charm of Vietnam&#8217;s Capital</title>
 		<link>https://rafagf.github.io/itfeelsgoodtobelost/hanoi-travel-guide/</link>
-					<comments>https://rafagf.github.io/itfeelsgoodtobelost/hanoi-travel-guide/#respond</comments>
 		
 		<dc:creator><![CDATA[Rafa Garcia]]></dc:creator>
 		<pubDate>Tue, 06 Jun 2023 21:12:39 +0000</pubDate>
@@ -165,8 +164,6 @@
 		<p>The post <a rel="nofollow" href="https://rafagf.github.io/itfeelsgoodtobelost/hanoi-travel-guide/">Hanoi Travel Guide: Discovering the Charm of Vietnam&#8217;s Capital</a> appeared first on <a rel="nofollow" href="https://rafagf.github.io/itfeelsgoodtobelost">It feels good to be lost</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://rafagf.github.io/itfeelsgoodtobelost/hanoi-travel-guide/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
@@ -178,5 +175,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 
 Page Caching using disk: enhanced (Requested URI contains query) 
 
-Served from: localhost @ 2023-06-12 23:13:23 by W3 Total Cache
+Served from: localhost @ 2023-07-12 13:58:43 by W3 Total Cache
 -->

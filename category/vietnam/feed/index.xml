@@ -9,7 +9,7 @@
 
 <channel>
 	<title>It feels good to be lost - Vietnam</title>
-	<atom:link href="http://localhost/itfeelsgoodtobelost/category/vietnam/feed/?simply_static_page=72618" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/itfeelsgoodtobelost/category/vietnam/feed/?simply_static_page=76078" rel="self" type="application/rss+xml" />
 	<link>https://rafagf.github.io/itfeelsgoodtobelost/category/vietnam/</link>
 	<description>Iga and Rafa. Travellers couple venturing around the world. Sharing our stories and tips for authentic experience seekers. The best plan is to say yes to new adventures!</description>
 	<lastBuildDate>Mon, 12 Jun 2023 22:57:17 +0000</lastBuildDate>
@@ -30,7 +30,6 @@
 	<item>
 		<title>Complete 3 week Vietnam Itinerary: From North to South</title>
 		<link>https://rafagf.github.io/itfeelsgoodtobelost/three-week-vietnam-itinerary/</link>
-					<comments>https://rafagf.github.io/itfeelsgoodtobelost/three-week-vietnam-itinerary/#respond</comments>
 		
 		<dc:creator><![CDATA[Rafa Garcia]]></dc:creator>
 		<pubDate>Mon, 12 Jun 2023 22:57:15 +0000</pubDate>
@@ -205,15 +204,12 @@
 <p>The post <a rel="nofollow" href="https://rafagf.github.io/itfeelsgoodtobelost/three-week-vietnam-itinerary/">Complete 3 week Vietnam Itinerary: From North to South</a> appeared first on <a rel="nofollow" href="https://rafagf.github.io/itfeelsgoodtobelost">It feels good to be lost</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://rafagf.github.io/itfeelsgoodtobelost/three-week-vietnam-itinerary/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Hanoi Travel Guide: Discovering the Charm of Vietnam&#8217;s Capital</title>
 		<link>https://rafagf.github.io/itfeelsgoodtobelost/hanoi-travel-guide/</link>
-					<comments>https://rafagf.github.io/itfeelsgoodtobelost/hanoi-travel-guide/#respond</comments>
 		
 		<dc:creator><![CDATA[Rafa Garcia]]></dc:creator>
 		<pubDate>Tue, 06 Jun 2023 21:12:39 +0000</pubDate>
@@ -348,8 +344,6 @@
 		<p>The post <a rel="nofollow" href="https://rafagf.github.io/itfeelsgoodtobelost/hanoi-travel-guide/">Hanoi Travel Guide: Discovering the Charm of Vietnam&#8217;s Capital</a> appeared first on <a rel="nofollow" href="https://rafagf.github.io/itfeelsgoodtobelost">It feels good to be lost</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://rafagf.github.io/itfeelsgoodtobelost/hanoi-travel-guide/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
@@ -413,7 +407,7 @@
 						<div class="elementor-element elementor-element-91ea9c8 elementor-button-info elementor-align-center elementor-widget elementor-widget-button" data-id="91ea9c8" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://itfeelsgoodtobelost.com/trekking-and-homestay-with-hill-tribes-of-sapa/" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a class="elementor-button elementor-button-link elementor-size-sm" href="https://itfeelsgoodtobelost.com/trekking-and-homestay-with-hill-tribes-of-sapa/" target="_blank">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">If you want to know more about our experience in Sapa, check out this post</span>
 		</span>
@@ -717,5 +711,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 
 Page Caching using disk: enhanced (Requested URI contains query) 
 
-Served from: localhost @ 2023-06-12 23:11:57 by W3 Total Cache
+Served from: localhost @ 2023-07-12 13:57:21 by W3 Total Cache
 -->

@@ -9,7 +9,7 @@
 
 <channel>
 	<title>scooter tour Archives - It feels good to be lost</title>
-	<atom:link href="http://localhost/itfeelsgoodtobelost/tag/scooter-tour/feed/?simply_static_page=72825" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/itfeelsgoodtobelost/tag/scooter-tour/feed/?simply_static_page=76258" rel="self" type="application/rss+xml" />
 	<link>https://rafagf.github.io/itfeelsgoodtobelost/tag/scooter-tour/</link>
 	<description>Iga and Rafa. Travellers couple venturing around the world. Sharing our stories and tips for authentic experience seekers. The best plan is to say yes to new adventures!</description>
 	<lastBuildDate>Mon, 12 Jun 2023 22:44:41 +0000</lastBuildDate>
@@ -30,7 +30,6 @@
 	<item>
 		<title>Travel to Singapore on a Budget: A Day Full of Affordable Adventures</title>
 		<link>https://rafagf.github.io/itfeelsgoodtobelost/travel-to-singapore-on-a-budget/</link>
-					<comments>https://rafagf.github.io/itfeelsgoodtobelost/travel-to-singapore-on-a-budget/#respond</comments>
 		
 		<dc:creator><![CDATA[Rafa Garcia]]></dc:creator>
 		<pubDate>Sun, 04 Jun 2023 16:22:04 +0000</pubDate>
@@ -601,8 +600,6 @@
 		<p>The post <a rel="nofollow" href="https://rafagf.github.io/itfeelsgoodtobelost/travel-to-singapore-on-a-budget/">Travel to Singapore on a Budget: A Day Full of Affordable Adventures</a> appeared first on <a rel="nofollow" href="https://rafagf.github.io/itfeelsgoodtobelost">It feels good to be lost</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://rafagf.github.io/itfeelsgoodtobelost/travel-to-singapore-on-a-budget/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
@@ -614,5 +611,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 
 Page Caching using disk: enhanced (Requested URI contains query) 
 
-Served from: localhost @ 2023-06-12 23:13:26 by W3 Total Cache
+Served from: localhost @ 2023-07-12 13:58:46 by W3 Total Cache
 -->

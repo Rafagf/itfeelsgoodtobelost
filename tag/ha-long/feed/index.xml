@@ -9,7 +9,7 @@
 
 <channel>
 	<title>ha long Archives - It feels good to be lost</title>
-	<atom:link href="http://localhost/itfeelsgoodtobelost/tag/ha-long/feed/?simply_static_page=72871" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/itfeelsgoodtobelost/tag/ha-long/feed/?simply_static_page=76301" rel="self" type="application/rss+xml" />
 	<link>https://rafagf.github.io/itfeelsgoodtobelost/tag/ha-long/</link>
 	<description>Iga and Rafa. Travellers couple venturing around the world. Sharing our stories and tips for authentic experience seekers. The best plan is to say yes to new adventures!</description>
 	<lastBuildDate>Mon, 12 Jun 2023 22:27:06 +0000</lastBuildDate>
@@ -87,7 +87,7 @@
 						<div class="elementor-element elementor-element-91ea9c8 elementor-button-info elementor-align-center elementor-widget elementor-widget-button" data-id="91ea9c8" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://itfeelsgoodtobelost.com/trekking-and-homestay-with-hill-tribes-of-sapa/" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a class="elementor-button elementor-button-link elementor-size-sm" href="https://itfeelsgoodtobelost.com/trekking-and-homestay-with-hill-tribes-of-sapa/" target="_blank">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">If you want to know more about our experience in Sapa, check out this post</span>
 		</span>
@@ -187,5 +187,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 
 Page Caching using disk: enhanced (Requested URI contains query) 
 
-Served from: localhost @ 2023-06-12 23:13:35 by W3 Total Cache
+Served from: localhost @ 2023-07-12 13:58:54 by W3 Total Cache
 -->

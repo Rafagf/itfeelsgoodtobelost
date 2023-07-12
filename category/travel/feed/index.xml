@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Travel Archives - It feels good to be lost</title>
-	<atom:link href="http://localhost/itfeelsgoodtobelost/category/travel/feed/?simply_static_page=72612" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/itfeelsgoodtobelost/category/travel/feed/?simply_static_page=76072" rel="self" type="application/rss+xml" />
 	<link>https://rafagf.github.io/itfeelsgoodtobelost/category/travel/</link>
 	<description>Iga and Rafa. Travellers couple venturing around the world. Sharing our stories and tips for authentic experience seekers. The best plan is to say yes to new adventures!</description>
 	<lastBuildDate>Mon, 12 Jun 2023 22:25:43 +0000</lastBuildDate>
@@ -176,7 +176,7 @@
 						<div class="elementor-element elementor-element-6b8105e elementor-button-info elementor-align-center elementor-widget elementor-widget-button" data-id="6b8105e" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://rafagf.github.io/itfeelsgoodtobelost/2018/05/30/3-rules-to-travel-cheap/" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a class="elementor-button elementor-button-link elementor-size-sm" href="https://rafagf.github.io/itfeelsgoodtobelost/2018/05/30/3-rules-to-travel-cheap/" target="_blank">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">FYI: if you want to find out how we managed to visit SE Asia on a limited budget- check this post</span>
 		</span>
@@ -248,7 +248,7 @@
 				<div class="elementor-element elementor-element-f2b9df4 elementor-button-info elementor-align-center elementor-widget elementor-widget-button" data-id="f2b9df4" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://rafagf.github.io/itfeelsgoodtobelost/2018/05/07/crossing-the-cambodian-border/" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a class="elementor-button elementor-button-link elementor-size-sm" href="https://rafagf.github.io/itfeelsgoodtobelost/2018/05/07/crossing-the-cambodian-border/" target="_blank">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">Crossing the border in Cambodia was quite an experience... check our post to see if it is as bad as people say</span>
 		</span>
@@ -576,5 +576,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 
 Page Caching using disk: enhanced (Requested URI contains query) 
 
-Served from: localhost @ 2023-06-12 23:11:54 by W3 Total Cache
+Served from: localhost @ 2023-07-12 13:57:17 by W3 Total Cache
 -->
