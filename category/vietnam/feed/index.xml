@@ -9,10 +9,10 @@
 
 <channel>
 	<title>It feels good to be lost - Vietnam</title>
-	<atom:link href="http://localhost/itfeelsgoodtobelost/category/vietnam/feed/?simply_static_page=92742" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/itfeelsgoodtobelost/category/vietnam/feed/?simply_static_page=99144" rel="self" type="application/rss+xml" />
 	<link>https://rafagf.github.io/itfeelsgoodtobelost/category/vietnam/</link>
 	<description>Iga and Rafa. Travellers couple venturing around the world. Sharing our stories and tips for authentic experience seekers. The best plan is to say yes to new adventures!</description>
-	<lastBuildDate>Mon, 24 Jul 2023 14:50:48 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 24 Jul 2023 23:18:02 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -345,6 +345,25 @@
 								</div>
 					</div>
 		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-107f557 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="107f557" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f238d9b" data-id="f238d9b" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-23bf041 elementor-widget elementor-widget-html" data-id="23bf041" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<i>Enjoyed the article? We provide our content free and without the use of affiliates, this is how you know we're authentic. If you'd like to support us to continue doing this, consider buying us a coffee!</i>
+
+<br><br>
+<a href="https://www.buymeacoffee.com/itfeelsgoodtobelost" target="_blank"><img decoding="async" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
 									</div>
 			</div>
 					</div>
@@ -484,6 +503,24 @@
 								<div class="elementor-image">
 												<img decoding="async" width="560" height="315" src="https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/06/20180922_182024_0001.png" class="attachment-large size-large wp-image-863" alt="" loading="lazy" srcset="https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/06/20180922_182024_0001.png 560w, https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/06/20180922_182024_0001-300x169.png 300w" sizes="(max-width: 560px) 100vw, 560px" />														</div>
 						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-075dc2f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="075dc2f" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-518383d" data-id="518383d" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-d19b0ad elementor-widget elementor-widget-html" data-id="d19b0ad" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<i>Enjoyed the article? We provide our content free and without the use of affiliates, this is how you know we’re authentic. If you’d like to support us to continue doing this, consider buying us a coffee!</i>
+<br><br>
+<a href="https://www.buymeacoffee.com/itfeelsgoodtobelost" target="_blank"><img decoding="async" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>		</div>
 				</div>
 						</div>
 					</div>
@@ -691,5 +728,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 
 Page Caching using disk: enhanced (Requested URI contains query) 
 
-Served from: localhost @ 2023-07-24 15:17:52 by W3 Total Cache
+Served from: localhost @ 2023-07-24 23:22:33 by W3 Total Cache
 -->
