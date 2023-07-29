@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://rafagf.github.io/itfeelsgoodtobelost/</loc>
-		<lastmod>2023-07-24T23:18:02+00:00</lastmod>
+		<lastmod>2023-07-29T22:07:56+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://rafagf.github.io/itfeelsgoodtobelost/here-we-go/</loc>
@@ -19,28 +19,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/06/dsc07078.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://rafagf.github.io/itfeelsgoodtobelost/trekking-and-homestay-with-hill-tribes-of-sapa/</loc>
-		<lastmod>2018-09-24T10:42:54+00:00</lastmod>
-		<image:image>
-			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/06/sapa-e1540117856169.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/06/sapa7.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/06/dsc08147-731x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/06/sapa6.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/06/sapa3-1024x615.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/06/sapa2-1024x683.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -273,25 +251,53 @@
 	</url>
 	<url>
 		<loc>https://rafagf.github.io/itfeelsgoodtobelost/ha-long-bay-or-sapa/</loc>
-		<lastmod>2023-07-24T23:05:05+00:00</lastmod>
+		<lastmod>2023-07-29T21:47:58+00:00</lastmod>
 		<image:image>
 			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/06/ha-long-bay.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/06/sapa2-e1537642149717.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/06/sapa7.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/06/dsc08395.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/06/20180922_182024_0001.png</image:loc>
 		</image:image>
 	</url>
 	<url>
+		<loc>https://rafagf.github.io/itfeelsgoodtobelost/trekking-and-homestay-with-hill-tribes-of-sapa/</loc>
+		<lastmod>2023-07-29T21:56:48+00:00</lastmod>
+		<image:image>
+			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/06/sapa-e1540117856169.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/06/sapa7.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/06/dsc08147-731x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/06/sapa2-e1537642149717.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/06/sapa6.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/06/sapa3-1024x615.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://rafagf.github.io/itfeelsgoodtobelost/three-week-vietnam-itinerary/</loc>
-		<lastmod>2023-07-24T23:18:02+00:00</lastmod>
+		<lastmod>2023-07-29T22:07:56+00:00</lastmod>
 		<image:image>
 			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/10/DSC09004-2.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/10/Hanoi-5.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/10/DSC07840-730x1024.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/10/DSC07660-1-1024x576.jpg</image:loc>
@@ -349,5 +355,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 
 Page Caching using disk: enhanced (Requested URI contains query) 
 
-Served from: localhost @ 2023-07-24 23:22:21 by W3 Total Cache
+Served from: localhost @ 2023-07-29 22:16:25 by W3 Total Cache
 -->
