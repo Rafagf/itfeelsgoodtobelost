@@ -2,66 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://rafagf.github.io/itfeelsgoodtobelost/</loc>
-		<lastmod>2023-07-29T22:07:56+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://rafagf.github.io/itfeelsgoodtobelost/here-we-go/</loc>
-		<lastmod>2018-06-23T04:53:05+00:00</lastmod>
-		<image:image>
-			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/05/img_20180221_090114.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://rafagf.github.io/itfeelsgoodtobelost/shibuya-crossing-in-tokyo/</loc>
-		<lastmod>2018-06-28T03:55:15+00:00</lastmod>
-		<image:image>
-			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/06/dsc07080.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/06/dsc07078.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://rafagf.github.io/itfeelsgoodtobelost/bangkok-from-koh-samui/</loc>
-		<lastmod>2018-09-24T11:07:14+00:00</lastmod>
-		<image:image>
-			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/05/koh-samui-2.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://rafagf.github.io/itfeelsgoodtobelost/3-rules-to-travel-cheap/</loc>
-		<lastmod>2023-06-12T22:25:43+00:00</lastmod>
-		<image:image>
-			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/05/dsc00220.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/05/img_20180421_094233.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/05/img_20170414_181959812_hdr.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/05/img_20170414_182206681.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/05/dsc07028.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/05/img_20180421_170542new.jpg?w=1000</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/05/dsc03631.jpg?w=1366</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/05/dsc07689-e1527181694820.jpg?w=892</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://rafagf.github.io/itfeelsgoodtobelost/30-bad-things-about-long-term-travelling/</loc>
-		<lastmod>2023-07-18T15:12:51+00:00</lastmod>
-		<image:image>
-			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/08/iga_train_hue.jpg</image:loc>
-		</image:image>
+		<lastmod>2023-07-31T10:13:57+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://rafagf.github.io/itfeelsgoodtobelost/the-strangest-protest-ever/</loc>
@@ -71,30 +12,10 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://rafagf.github.io/itfeelsgoodtobelost/couchsurfing-in-ho-chi-minh/</loc>
-		<lastmod>2023-07-18T15:20:56+00:00</lastmod>
-		<image:image>
-			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/07/vietnam-class.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/07/DSC09590.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://rafagf.github.io/itfeelsgoodtobelost/cu-chi-tunnels-on-your-own/</loc>
 		<lastmod>2023-07-18T15:24:36+00:00</lastmod>
 		<image:image>
 			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/07/Screen-Shot-2018-07-14-at-17.48.47.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://rafagf.github.io/itfeelsgoodtobelost/crossing-the-cambodian-border/</loc>
-		<lastmod>2023-07-18T15:30:21+00:00</lastmod>
-		<image:image>
-			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/05/img_20180330_192341.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/05/img_20180331_092445.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -348,6 +269,59 @@
 			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/07/vietnam-class.jpg</image:loc>
 		</image:image>
 	</url>
+	<url>
+		<loc>https://rafagf.github.io/itfeelsgoodtobelost/30-bad-things-about-long-term-travelling/</loc>
+		<lastmod>2023-07-31T09:03:05+00:00</lastmod>
+		<image:image>
+			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/08/iga_train_hue.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://rafagf.github.io/itfeelsgoodtobelost/couchsurfing-in-ho-chi-minh/</loc>
+		<lastmod>2023-07-31T09:29:38+00:00</lastmod>
+		<image:image>
+			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/07/vietnam-class.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/07/DSC09590.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://rafagf.github.io/itfeelsgoodtobelost/bangkok-from-koh-samui/</loc>
+		<lastmod>2023-07-31T09:36:42+00:00</lastmod>
+		<image:image>
+			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/05/koh-samui-2.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://rafagf.github.io/itfeelsgoodtobelost/crossing-the-cambodian-border/</loc>
+		<lastmod>2023-07-31T09:59:37+00:00</lastmod>
+		<image:image>
+			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/05/img_20180330_192341.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://rafagf.github.io/itfeelsgoodtobelost/3-rules-to-travel-cheap/</loc>
+		<lastmod>2023-07-31T10:13:57+00:00</lastmod>
+		<image:image>
+			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/05/dsc00220.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/05/img_20170414_181959812_hdr.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/05/dsc07028.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/07/vietnam-class.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/06/dsc03553.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/11/IMG_20180516_193611.jpg</image:loc>
+		</image:image>
+	</url>
 </urlset>
 <!-- XML Sitemap generated by Yoast SEO -->
 <!--
@@ -355,5 +329,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 
 Page Caching using disk: enhanced (Requested URI contains query) 
 
-Served from: localhost @ 2023-07-30 10:27:23 by W3 Total Cache
+Served from: localhost @ 2023-07-31 10:19:46 by W3 Total Cache
 -->
