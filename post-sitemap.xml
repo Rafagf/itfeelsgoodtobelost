@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://rafagf.github.io/itfeelsgoodtobelost/</loc>
-		<lastmod>2023-08-02T14:01:27+00:00</lastmod>
+		<lastmod>2023-08-09T23:01:13+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://rafagf.github.io/itfeelsgoodtobelost/unforgettable-adventure-cycling-angkor-wat/</loc>
@@ -33,37 +33,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/07/20180807_201636_0001.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://rafagf.github.io/itfeelsgoodtobelost/hanoi-travel-guide/</loc>
-		<lastmod>2023-07-24T23:00:13+00:00</lastmod>
-		<image:image>
-			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/10/DSC07858-e1541940003676.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/11/142880944.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/11/148970317.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/11/DSC07854.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/11/DSC07828.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/11/DSC07859-e1541936504493.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/11/DSC08470.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/11/IMG_20180516_193611.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/10/Hanoi-5-200x300.png</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -270,10 +239,20 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://rafagf.github.io/itfeelsgoodtobelost/three-week-vietnam-itinerary/</loc>
-		<lastmod>2023-08-02T13:58:14+00:00</lastmod>
+		<loc>https://rafagf.github.io/itfeelsgoodtobelost/couchsurfing-in-ho-chi-minh/</loc>
+		<lastmod>2023-08-02T14:01:27+00:00</lastmod>
 		<image:image>
-			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/10/DSC09004-2.jpg</image:loc>
+			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/07/vietnam-class.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/07/DSC09590.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://rafagf.github.io/itfeelsgoodtobelost/three-week-vietnam-itinerary/</loc>
+		<lastmod>2023-08-09T22:37:35+00:00</lastmod>
+		<image:image>
+			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2023/08/DSC09004-2.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/10/Hanoi-5.png</image:loc>
@@ -282,7 +261,7 @@
 			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/10/DSC07660-1-1024x576.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/11/DSC08470.jpg</image:loc>
+			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2023/08/hanoi-street-train.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/06/sapa-1024x815.jpg</image:loc>
@@ -319,13 +298,34 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://rafagf.github.io/itfeelsgoodtobelost/couchsurfing-in-ho-chi-minh/</loc>
-		<lastmod>2023-08-02T14:01:27+00:00</lastmod>
+		<loc>https://rafagf.github.io/itfeelsgoodtobelost/hanoi-travel-guide/</loc>
+		<lastmod>2023-08-09T23:01:13+00:00</lastmod>
 		<image:image>
-			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/07/vietnam-class.jpg</image:loc>
+			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/10/DSC07858-e1541940003676.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/07/DSC09590.jpg</image:loc>
+			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/11/142880944.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/11/148970317.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2023/08/hanoi-lake-temple.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2023/08/iga-hanoi-temple-lake.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/11/DSC07859-e1541936504493.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2023/08/hanoi-street-train.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/11/IMG_20180516_193611.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/10/Hanoi-5-200x300.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
@@ -335,5 +335,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 
 Page Caching using disk: enhanced (Requested URI contains query) 
 
-Served from: localhost @ 2023-08-02 14:03:49 by W3 Total Cache
+Served from: localhost @ 2023-08-09 23:09:15 by W3 Total Cache
 -->
