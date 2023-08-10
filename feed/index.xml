@@ -9,10 +9,10 @@
 
 <channel>
 	<title>It feels good to be lost</title>
-	<atom:link href="http://localhost/itfeelsgoodtobelost/feed/?simply_static_page=160626" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/itfeelsgoodtobelost/feed/?simply_static_page=164738" rel="self" type="application/rss+xml" />
 	<link>https://rafagf.github.io/itfeelsgoodtobelost/</link>
 	<description>Iga and Rafa. Travellers couple venturing around the world. Sharing our stories and tips for authentic experience seekers. The best plan is to say yes to new adventures!</description>
-	<lastBuildDate>Thu, 10 Aug 2023 21:30:43 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 10 Aug 2023 21:56:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -133,7 +133,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter is-resized"><img decoding="async" loading="lazy" src="https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/10/Hanoi-5.png" alt="Vietnam map" width="390" height="584"/></figure></div>
+<figure class="aligncenter size-large is-resized"><img decoding="async" loading="lazy" src="https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2023/08/vietnam-map-683x1024.jpg" alt="A cute Vietnam map highlighting places to visit" class="wp-image-3410" width="393" height="588" srcset="https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2023/08/vietnam-map-683x1024.jpg 683w, https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2023/08/vietnam-map-200x300.jpg 200w, https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2023/08/vietnam-map.jpg 735w" sizes="(max-width: 393px) 100vw, 393px" /></figure></div>
 
 
 <h2 class="wp-block-heading" id="htoc-how-much-money-do-i-need">How much money do I need?</h2>
@@ -1531,5 +1531,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 
 Page Caching using disk: enhanced (Requested URI contains query) 
 
-Served from: localhost @ 2023-08-10 21:32:58 by W3 Total Cache
+Served from: localhost @ 2023-08-10 21:58:02 by W3 Total Cache
 -->
