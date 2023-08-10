@@ -2,54 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://rafagf.github.io/itfeelsgoodtobelost/</loc>
-		<lastmod>2023-08-10T13:53:30+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://rafagf.github.io/itfeelsgoodtobelost/unforgettable-adventure-cycling-angkor-wat/</loc>
-		<lastmod>2023-07-24T22:50:44+00:00</lastmod>
-		<image:image>
-			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/07/Angkor-Wat-3-small.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/07/Angkor-Wat-6-small.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/07/DSC04921.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/07/DSC04828-1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/07/Angkor-Wat-6-small-3.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/07/DSC04929-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/07/GOPR3146.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/07/Angkor-Wat-small.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/07/20180807_201636_0001.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://rafagf.github.io/itfeelsgoodtobelost/best-things-to-do-in-koh-chang/</loc>
-		<lastmod>2023-07-24T23:01:59+00:00</lastmod>
-		<image:image>
-			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/05/koh-chang11.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/05/koh-chang-xx1-e1582292336841.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/05/koh-chang-sunset-e1582292527691.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/05/koh-chang15-e1582293916267.jpg</image:loc>
-		</image:image>
+		<lastmod>2023-08-10T16:56:32+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://rafagf.github.io/itfeelsgoodtobelost/exploring-koh-samet-travel-guide/</loc>
@@ -171,28 +124,6 @@
 		<lastmod>2023-08-02T10:20:49+00:00</lastmod>
 		<image:image>
 			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/07/Screen-Shot-2018-07-14-at-17.48.47.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://rafagf.github.io/itfeelsgoodtobelost/ninh-binh-travel-guide/</loc>
-		<lastmod>2023-08-02T11:33:40+00:00</lastmod>
-		<image:image>
-			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/10/DSC08577.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2019/11/51863774_285603368789439_4178615266151759872_n-e1573422842345.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/10/DSC08760-e1573422219267.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/10/DSC08480-e1573422285571.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2019/11/DSC08901-e1573422119440.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/10/DSC08935-2.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -328,6 +259,75 @@
 			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/08/DSC01051.jpg</image:loc>
 		</image:image>
 	</url>
+	<url>
+		<loc>https://rafagf.github.io/itfeelsgoodtobelost/best-things-to-do-in-koh-chang/</loc>
+		<lastmod>2023-08-10T16:43:08+00:00</lastmod>
+		<image:image>
+			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2023/08/koh-chang-motorbike.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/05/koh-chang-xx1-e1582292336841.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/05/koh-chang-sunset-e1582292527691.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/05/koh-chang15-e1582293916267.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://rafagf.github.io/itfeelsgoodtobelost/ninh-binh-travel-guide/</loc>
+		<lastmod>2023-08-10T16:52:03+00:00</lastmod>
+		<image:image>
+			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2023/08/vietnam-rafa-bike-ninh-binh-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2019/11/51863774_285603368789439_4178615266151759872_n-e1573422842345.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/10/DSC08760-e1573422219267.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/10/DSC08480-e1573422285571.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2019/11/DSC08901-e1573422119440.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/10/DSC08935-2.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://rafagf.github.io/itfeelsgoodtobelost/unforgettable-adventure-cycling-angkor-wat/</loc>
+		<lastmod>2023-08-10T16:56:32+00:00</lastmod>
+		<image:image>
+			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2023/08/rafa-iga-angkor-wat.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/07/Angkor-Wat-6-small.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/07/DSC04921.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/07/DSC04828-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/07/Angkor-Wat-6-small-3.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/07/DSC04929-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/07/GOPR3146.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/07/Angkor-Wat-small.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/07/20180807_201636_0001.png</image:loc>
+		</image:image>
+	</url>
 </urlset>
 <!-- XML Sitemap generated by Yoast SEO -->
 <!--
@@ -335,5 +335,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 
 Page Caching using disk: enhanced (Requested URI contains query) 
 
-Served from: localhost @ 2023-08-10 13:55:20 by W3 Total Cache
+Served from: localhost @ 2023-08-10 16:59:11 by W3 Total Cache
 -->

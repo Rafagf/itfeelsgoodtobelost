@@ -9,10 +9,10 @@
 
 <channel>
 	<title>admin, Author at It feels good to be lost</title>
-	<atom:link href="http://localhost/itfeelsgoodtobelost/author/admin/feed/?simply_static_page=154637" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/itfeelsgoodtobelost/author/admin/feed/?simply_static_page=156659" rel="self" type="application/rss+xml" />
 	<link>https://rafagf.github.io/itfeelsgoodtobelost/author/admin/</link>
 	<description>Iga and Rafa. Travellers couple venturing around the world. Sharing our stories and tips for authentic experience seekers. The best plan is to say yes to new adventures!</description>
-	<lastBuildDate>Mon, 24 Jul 2023 22:50:44 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 10 Aug 2023 16:56:32 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,7 +20,7 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.2.2</generator>
 	<item>
-		<title>An Unforgettable Adventure: Cycling Angkor Wat</title>
+		<title>Cycling Angkor Wat: An Unforgettable Adventure:</title>
 		<link>https://rafagf.github.io/itfeelsgoodtobelost/unforgettable-adventure-cycling-angkor-wat/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
@@ -29,7 +29,7 @@
 		<guid isPermaLink="false">https://rafagf.github.io/itfeelsgoodtobelost/?p=447</guid>
 
 					<description><![CDATA[<p>Updated June 2023: This post has been updated to provide the most current information and tips for an unforgettable adventure cycling Angkor Wat. Enjoy your journey! Embarking on a journey to Angkor Wat, the largest religious monument in the world, is an experience of a lifetime. Nestled in the heart of Cambodia, this UNESCO World [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://rafagf.github.io/itfeelsgoodtobelost/unforgettable-adventure-cycling-angkor-wat/">An Unforgettable Adventure: Cycling Angkor Wat</a> appeared first on <a rel="nofollow" href="https://rafagf.github.io/itfeelsgoodtobelost">It feels good to be lost</a>.</p>
+<p>The post <a rel="nofollow" href="https://rafagf.github.io/itfeelsgoodtobelost/unforgettable-adventure-cycling-angkor-wat/">Cycling Angkor Wat: An Unforgettable Adventure:</a> appeared first on <a rel="nofollow" href="https://rafagf.github.io/itfeelsgoodtobelost">It feels good to be lost</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<div class="group w-full text-gray-800 dark:text-gray-100 border-b border-black/10 dark:border-gray-900/50 bg-gray-50 dark:bg-[#444654]">
 <div class="flex p-4 gap-4 text-base md:gap-6 md:max-w-2xl lg:max-w-[38rem] xl:max-w-3xl md:py-6 lg:px-0 m-auto">
@@ -95,7 +95,7 @@
 </div>
 <p><img decoding="async" loading="lazy" class="size-full wp-image-540 aligncenter" src="https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/07/Angkor-Wat-small.jpg" alt="Sunset in Angkor Wat" width="3300" height="2200" srcset="https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/07/Angkor-Wat-small.jpg 3300w, https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/07/Angkor-Wat-small-300x200.jpg 300w, https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/07/Angkor-Wat-small-768x512.jpg 768w, https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/07/Angkor-Wat-small-1024x683.jpg 1024w" sizes="(max-width: 3300px) 100vw, 3300px" /></p>
 <p><img decoding="async" loading="lazy" class="wp-image-761 aligncenter" src="https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/07/20180807_201636_0001.png" alt="Cycling around Angkor Wat" width="647" height="364" srcset="https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/07/20180807_201636_0001.png 560w, https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/07/20180807_201636_0001-300x169.png 300w" sizes="(max-width: 647px) 100vw, 647px" /></p>
-<p>The post <a rel="nofollow" href="https://rafagf.github.io/itfeelsgoodtobelost/unforgettable-adventure-cycling-angkor-wat/">An Unforgettable Adventure: Cycling Angkor Wat</a> appeared first on <a rel="nofollow" href="https://rafagf.github.io/itfeelsgoodtobelost">It feels good to be lost</a>.</p>
+<p>The post <a rel="nofollow" href="https://rafagf.github.io/itfeelsgoodtobelost/unforgettable-adventure-cycling-angkor-wat/">Cycling Angkor Wat: An Unforgettable Adventure:</a> appeared first on <a rel="nofollow" href="https://rafagf.github.io/itfeelsgoodtobelost">It feels good to be lost</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -109,5 +109,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 
 Page Caching using disk: enhanced (Requested URI contains query) 
 
-Served from: localhost @ 2023-08-10 13:55:44 by W3 Total Cache
+Served from: localhost @ 2023-08-10 16:59:49 by W3 Total Cache
 -->
