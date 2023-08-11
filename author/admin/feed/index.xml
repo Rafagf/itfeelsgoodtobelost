@@ -9,7 +9,7 @@
 
 <channel>
 	<title>admin, Author at It feels good to be lost</title>
-	<atom:link href="http://localhost/itfeelsgoodtobelost/author/admin/feed/?simply_static_page=164864" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/itfeelsgoodtobelost/author/admin/feed/?simply_static_page=166918" rel="self" type="application/rss+xml" />
 	<link>https://rafagf.github.io/itfeelsgoodtobelost/author/admin/</link>
 	<description>Iga and Rafa. Travellers couple venturing around the world. Sharing our stories and tips for authentic experience seekers. The best plan is to say yes to new adventures!</description>
 	<lastBuildDate>Thu, 10 Aug 2023 16:56:32 +0000</lastBuildDate>
@@ -109,5 +109,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 
 Page Caching using disk: enhanced (Requested URI contains query) 
 
-Served from: localhost @ 2023-08-10 21:58:37 by W3 Total Cache
+Served from: localhost @ 2023-08-11 09:04:05 by W3 Total Cache
 -->

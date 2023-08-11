@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://rafagf.github.io/itfeelsgoodtobelost/</loc>
-		<lastmod>2023-08-10T21:56:10+00:00</lastmod>
+		<lastmod>2023-08-11T09:00:01+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://rafagf.github.io/itfeelsgoodtobelost/30-bad-things-about-long-term-travelling/</loc>
@@ -25,28 +25,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/05/koh-chang15-e1582293916267.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://rafagf.github.io/itfeelsgoodtobelost/ninh-binh-travel-guide/</loc>
-		<lastmod>2023-08-10T16:52:03+00:00</lastmod>
-		<image:image>
-			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2023/08/vietnam-rafa-bike-ninh-binh-scaled.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2019/11/51863774_285603368789439_4178615266151759872_n-e1573422842345.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/10/DSC08760-e1573422219267.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/10/DSC08480-e1573422285571.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2019/11/DSC08901-e1573422119440.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/10/DSC08935-2.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -238,7 +216,7 @@
 	</url>
 	<url>
 		<loc>https://rafagf.github.io/itfeelsgoodtobelost/travel-to-singapore-on-a-budget/</loc>
-		<lastmod>2023-08-10T21:30:43+00:00</lastmod>
+		<lastmod>2023-08-11T08:40:23+00:00</lastmod>
 		<image:image>
 			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2023/08/singapore-header.jpg</image:loc>
 		</image:image>
@@ -258,9 +236,6 @@
 			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/08/DSC01089-214x300.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/08/LRM_EXPORT_20180802_213331.jpg</image:loc>
-		</image:image>
-		<image:image>
 			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/08/DSC01187-214x300.jpg</image:loc>
 		</image:image>
 		<image:image>
@@ -277,8 +252,30 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>https://rafagf.github.io/itfeelsgoodtobelost/ninh-binh-travel-guide/</loc>
+		<lastmod>2023-08-11T08:59:05+00:00</lastmod>
+		<image:image>
+			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2023/08/vietnam-rafa-bike-ninh-binh-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2023/08/rafa-ninh-binh-top.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2023/08/ninh-binh-river-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/10/DSC08480-e1573422285571.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2019/11/DSC08901-e1573422119440.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/10/DSC08935-2.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://rafagf.github.io/itfeelsgoodtobelost/three-week-vietnam-itinerary/</loc>
-		<lastmod>2023-08-10T21:56:10+00:00</lastmod>
+		<lastmod>2023-08-11T09:00:01+00:00</lastmod>
 		<image:image>
 			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2023/08/hue-temple.jpg</image:loc>
 		</image:image>
@@ -292,13 +289,13 @@
 			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2023/08/hanoi-street-train-1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/06/sapa-1024x815.jpg</image:loc>
+			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2023/08/sapa-old-woman.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/10/DSC08352-1024x576.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/10/DSC08760-1024x576.jpg</image:loc>
+			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2023/08/ninh-binh-river-2.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/10/DSC08480-1024x576.jpg</image:loc>
@@ -332,5 +329,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 
 Page Caching using disk: enhanced (Requested URI contains query) 
 
-Served from: localhost @ 2023-08-10 21:58:05 by W3 Total Cache
+Served from: localhost @ 2023-08-11 09:03:34 by W3 Total Cache
 -->
