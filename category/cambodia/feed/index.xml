@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Cambodia - It feels good to be lost</title>
-	<atom:link href="http://localhost/itfeelsgoodtobelost/category/cambodia/feed/?simply_static_page=168968" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/itfeelsgoodtobelost/category/cambodia/feed/?simply_static_page=171081" rel="self" type="application/rss+xml" />
 	<link>https://rafagf.github.io/itfeelsgoodtobelost/category/cambodia/</link>
 	<description>Iga and Rafa. Travellers couple venturing around the world. Sharing our stories and tips for authentic experience seekers. The best plan is to say yes to new adventures!</description>
-	<lastBuildDate>Fri, 11 Aug 2023 15:44:11 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 16 Aug 2023 15:01:27 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -166,5 +166,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 
 Page Caching using disk: enhanced (Requested URI contains query) 
 
-Served from: localhost @ 2023-08-11 16:24:19 by W3 Total Cache
+Served from: localhost @ 2023-08-16 15:04:34 by W3 Total Cache
 -->
