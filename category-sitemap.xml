@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://rafagf.github.io/itfeelsgoodtobelost/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://itfeelsgoodtobelost.com/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://rafagf.github.io/itfeelsgoodtobelost/category/cambodia/</loc>
+		<loc>https://itfeelsgoodtobelost.com/category/cambodia/</loc>
 		<lastmod>2023-08-16T15:01:27+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://rafagf.github.io/itfeelsgoodtobelost/category/singapore/</loc>
+		<loc>https://itfeelsgoodtobelost.com/category/singapore/</loc>
 		<lastmod>2023-08-16T14:58:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://rafagf.github.io/itfeelsgoodtobelost/category/thailand/</loc>
+		<loc>https://itfeelsgoodtobelost.com/category/thailand/</loc>
 		<lastmod>2023-08-16T15:01:58+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://rafagf.github.io/itfeelsgoodtobelost/category/travel/</loc>
+		<loc>https://itfeelsgoodtobelost.com/category/travel/</loc>
 		<lastmod>2023-08-16T15:02:46+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://rafagf.github.io/itfeelsgoodtobelost/category/vietnam/</loc>
+		<loc>https://itfeelsgoodtobelost.com/category/vietnam/</loc>
 		<lastmod>2023-08-16T15:02:24+00:00</lastmod>
 	</url>
 </urlset>
@@ -27,5 +27,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 
 Page Caching using disk: enhanced (Requested URI contains query) 
 
-Served from: localhost @ 2023-08-16 15:04:26 by W3 Total Cache
+Served from: localhost @ 2023-08-16 16:35:32 by W3 Total Cache
 -->

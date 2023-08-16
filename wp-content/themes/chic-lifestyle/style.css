@@ -807,7 +807,7 @@ section.main-nav .navbar-nav{width: 100%;text-align: center;}
     box-shadow: none;
     border-bottom: 1px dotted #000;
     border-radius: 0;}
-.search-submit{width: 40px;border: none;text-indent: -99999px;border-radius: 0;background:url(https://rafagf.github.io/itfeelsgoodtobelost/wp-content/themes/chic-lifestyle/images/search.png) no-repeat center/50%;}
+.search-submit{width: 40px;border: none;text-indent: -99999px;border-radius: 0;background:url(https://itfeelsgoodtobelost.com/wp-content/themes/chic-lifestyle/images/search.png) no-repeat center/50%;}
 
 .sticky-header.fix-top{position: fixed;top: 0;width: 100%;z-index: 1000;}
 
@@ -925,8 +925,8 @@ button.loadmore:hover{color: #999;}
     color: #888;
     text-transform: uppercase;
 }
-.owl-carousel .owl-nav .owl-prev{float: left;background: url(https://rafagf.github.io/itfeelsgoodtobelost/wp-content/themes/chic-lifestyle/images/left.png) no-repeat center;}
-.owl-carousel .owl-nav .owl-next{float: right;background: url(https://rafagf.github.io/itfeelsgoodtobelost/wp-content/themes/chic-lifestyle/images/right.png) no-repeat center;}
+.owl-carousel .owl-nav .owl-prev{float: left;background: url(https://itfeelsgoodtobelost.com/wp-content/themes/chic-lifestyle/images/left.png) no-repeat center;}
+.owl-carousel .owl-nav .owl-next{float: right;background: url(https://itfeelsgoodtobelost.com/wp-content/themes/chic-lifestyle/images/right.png) no-repeat center;}
 
 .owl-carousel .owl-nav .owl-prev, .owl-carousel .owl-nav .owl-next{  
     background-size: 20px;
@@ -1052,7 +1052,7 @@ footer .widget:last-child {padding: 0;}
     .widget_search{background: #ccc;padding: 30px;}
     .widget_search label{width: 78%;float: left;}
     .widget_search input.search-field{padding:8px 5%;border:none;width: 90%;}
-    .widget_search input.search-submit{border: none;background: url(https://rafagf.github.io/itfeelsgoodtobelost/wp-content/themes/chic-lifestyle/images/search.png) center no-repeat;color: #fff;width: 22%;background-size: 25px;background-color: #00000070;}
+    .widget_search input.search-submit{border: none;background: url(https://itfeelsgoodtobelost.com/wp-content/themes/chic-lifestyle/images/search.png) center no-repeat;color: #fff;width: 22%;background-size: 25px;background-color: #00000070;}
 
     .jetpack_subscription_widget {background: #333;padding: 30px;color: #fff;}
     .jetpack_subscription_widget h3.widget-title{color: #fff;}
@@ -1114,8 +1114,8 @@ footer .widget:last-child {padding: 0;}
 .widget-instagram ul{margin: 0 !important; padding: 0; position: relative;list-style: none;}
 .widget-instagram .owl-nav{top: 50%;width: 100%;transform: translateY(-50%);-moz-transform: translateY(-50%);-webkit-transform: translateY(-50%);transform: translateY(-50%);}
 
-.widget-instagram .owl-carousel .owl-nav .owl-prev{float: left;background: url(https://rafagf.github.io/itfeelsgoodtobelost/wp-content/themes/chic-lifestyle/images/left.png) no-repeat center;margin-left:30px;}
-.widget-instagram .owl-carousel .owl-nav .owl-next{float: right;background: url(https://rafagf.github.io/itfeelsgoodtobelost/wp-content/themes/chic-lifestyle/images/right.png) no-repeat center;margin-right:30px;}
+.widget-instagram .owl-carousel .owl-nav .owl-prev{float: left;background: url(https://itfeelsgoodtobelost.com/wp-content/themes/chic-lifestyle/images/left.png) no-repeat center;margin-left:30px;}
+.widget-instagram .owl-carousel .owl-nav .owl-next{float: right;background: url(https://itfeelsgoodtobelost.com/wp-content/themes/chic-lifestyle/images/right.png) no-repeat center;margin-right:30px;}
 .widget-instagram .owl-carousel .owl-nav .owl-prev,.widget-instagram .owl-carousel .owl-nav .owl-next {
     background-color: #000000c4;
     background-size: 20px;
@@ -1234,7 +1234,7 @@ footer .widget:last-child {padding: 0;}
         header section.main-nav .navbar-nav .dropdown-menu {
             position: inherit;width: 100%;    background: #e7e7e7;box-shadow: none;
         }
-        header section.main-nav .navbar-nav .caret{position:absolute; top: 0; right: 0; width: 45px;height: 36px;background:url(https://rafagf.github.io/itfeelsgoodtobelost/wp-content/themes/chic-lifestyle/images/arrow.png) center/20px no-repeat #333;border: none;}
+        header section.main-nav .navbar-nav .caret{position:absolute; top: 0; right: 0; width: 45px;height: 36px;background:url(https://itfeelsgoodtobelost.com/wp-content/themes/chic-lifestyle/images/arrow.png) center/20px no-repeat #333;border: none;}
         header section.main-nav .navbar-nav .open .dropdown-menu {
             display: block !important;
         }

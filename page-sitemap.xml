@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://rafagf.github.io/itfeelsgoodtobelost/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://itfeelsgoodtobelost.com/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://rafagf.github.io/itfeelsgoodtobelost/</loc>
+		<loc>https://itfeelsgoodtobelost.com/</loc>
 	</url>
 	<url>
-		<loc>https://rafagf.github.io/itfeelsgoodtobelost/about-us/</loc>
+		<loc>https://itfeelsgoodtobelost.com/about-us/</loc>
 		<lastmod>2023-06-12T22:08:15+00:00</lastmod>
 		<image:image>
-			<image:loc>https://rafagf.github.io/itfeelsgoodtobelost/wp-content/uploads/2018/05/31674176_2019335821649036_8312292736162070528_o.jpg</image:loc>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2018/05/31674176_2019335821649036_8312292736162070528_o.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
@@ -17,5 +17,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 
 Page Caching using disk: enhanced (Requested URI contains query) 
 
-Served from: localhost @ 2023-08-16 15:04:26 by W3 Total Cache
+Served from: localhost @ 2023-08-16 16:35:32 by W3 Total Cache
 -->

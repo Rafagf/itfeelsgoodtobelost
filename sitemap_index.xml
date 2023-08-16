@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://rafagf.github.io/itfeelsgoodtobelost/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://itfeelsgoodtobelost.com/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>https://rafagf.github.io/itfeelsgoodtobelost/post-sitemap.xml</loc>
+		<loc>https://itfeelsgoodtobelost.com/post-sitemap.xml</loc>
 		<lastmod>2023-08-16T15:02:46+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://rafagf.github.io/itfeelsgoodtobelost/page-sitemap.xml</loc>
+		<loc>https://itfeelsgoodtobelost.com/page-sitemap.xml</loc>
 		<lastmod>2023-06-12T22:08:15+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://rafagf.github.io/itfeelsgoodtobelost/category-sitemap.xml</loc>
+		<loc>https://itfeelsgoodtobelost.com/category-sitemap.xml</loc>
 		<lastmod>2023-08-16T15:02:46+00:00</lastmod>
 	</sitemap>
 </sitemapindex>
@@ -19,5 +19,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 
 Page Caching using disk: enhanced (Requested URI contains query) 
 
-Served from: localhost @ 2023-08-16 15:04:00 by W3 Total Cache
+Served from: localhost @ 2023-08-16 16:34:54 by W3 Total Cache
 -->
