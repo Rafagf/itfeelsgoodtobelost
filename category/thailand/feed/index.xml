@@ -9,9 +9,9 @@
 
 <channel>
 	<title>Thailand - It feels good to be lost</title>
-	<atom:link href="http://localhost/itfeelsgoodtobelost/category/thailand/feed/?simply_static_page=177356" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/itfeelsgoodtobelost/category/thailand/feed/?simply_static_page=179451" rel="self" type="application/rss+xml" />
 	<link>https://itfeelsgoodtobelost.com/category/thailand/</link>
-	<description>Iga and Rafa. Travellers couple venturing around the world. Sharing our stories and tips for authentic experience seekers. The best plan is to say yes to new adventures!</description>
+	<description>Iga and Rafa, couple venturing around the world. Sharing our stories and tips for authentic experience seekers. Always say yes to new adventures!</description>
 	<lastBuildDate>Thu, 17 Aug 2023 07:36:58 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
@@ -19,6 +19,14 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.2.2</generator>
+
+<image>
+	<url>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/08/Screenshot-2023-08-17-at-17.02.27-150x150.png</url>
+	<title>Thailand - It feels good to be lost</title>
+	<link>https://itfeelsgoodtobelost.com/category/thailand/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Best Things to Do in Koh Chang: Discover Thailand&#8217;s Hidden Gem</title>
 		<link>https://itfeelsgoodtobelost.com/best-things-to-do-in-koh-chang/</link>
@@ -196,5 +204,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 
 Page Caching using disk: enhanced (Requested URI contains query) 
 
-Served from: localhost @ 2023-08-17 07:43:07 by W3 Total Cache
+Served from: localhost @ 2023-08-17 16:17:40 by W3 Total Cache
 -->
