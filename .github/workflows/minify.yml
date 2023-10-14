@@ -22,4 +22,3 @@ jobs:
           github_token: ${{ secrets.PAT_TOKEN }}
           branch: 'to-be-made-master'
       - name: Commit Minified Code
-
