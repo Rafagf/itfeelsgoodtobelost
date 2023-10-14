@@ -17,6 +17,8 @@ jobs:
         uses: docker://devatherock/minify-js:2.0.0
 
       - name: Commit Minified Code
+        env:
+          API_TOKEN_GITHUB: ${{ secrets.PAT_TOKEN }}
         run: |
           git config user.name "${{ secrets.GIT_USER }}"
           git config user.email "${{ secrets.GIT_EMAIL }}"
