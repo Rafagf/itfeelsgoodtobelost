@@ -13,11 +13,8 @@ jobs:
         with:
           ref: ${{ github.ref }}
 
-      - name: Install sponge
-        run: sudo apt-get install -y moreutils
-
-      - name: Minify Action
-        uses: anthonyftwang/minify-action@v1.0.1
+      - name: HTML/CSS/JS Minifier
+        uses: docker://devatherock/minify-js:2.0.0
 
       - name: Commit Minified Code
         run: |
