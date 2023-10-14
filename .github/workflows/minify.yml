@@ -1,0 +1,24 @@
+name: Minify Workflow
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+        with:
+          ref: ${{ github.ref }}
+
+      - name: Minify Action
+        uses: anthonyftwang/minify-action@v1.0.1
+
+      - name: Commit Minified Code
+        run: |
+          git checkout -b gh-pages
+          git add -A
+          git commit -m "Minify source code"
+          git push origin to-be-made-master
