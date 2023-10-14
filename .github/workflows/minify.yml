@@ -23,4 +23,6 @@ jobs:
           git checkout -b to-be-made-master
           git add -A
           git commit -m "Minify source code"
-          git push origin to-be-made-master --access-token="${{ secrets.PAT_TOKEN }}"
+          git push origin to-be-made-master
+        with:
+          token: ${{ secrets.PAT_TOKEN }}
