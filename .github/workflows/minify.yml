@@ -13,6 +13,9 @@ jobs:
         with:
           ref: ${{ github.ref }}
 
+      - name: Install sponge
+        run: sudo apt-get install -y moreutils
+
       - name: Minify Action
         uses: anthonyftwang/minify-action@v1.0.1
 
