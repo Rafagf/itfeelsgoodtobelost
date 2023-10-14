@@ -17,6 +17,8 @@ jobs:
         uses: docker://devatherock/minify-js:2.0.0
 
       - name: Commit Minified Code
+        env:
+          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
         run: |
           git checkout -b to-be-made-master
           git add -A
