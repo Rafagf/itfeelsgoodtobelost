@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Singapore - It feels good to be lost</title>
-	<atom:link href="http://localhost/itfeelsgoodtobelost/category/singapore/feed/?simply_static_page=182251" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/itfeelsgoodtobelost/category/singapore/feed/?simply_static_page=185049" rel="self" type="application/rss+xml" />
 	<link>https://itfeelsgoodtobelost.com/category/singapore/</link>
 	<description>Iga and Rafa, couple venturing around the world. Sharing our stories and tips for authentic experience seekers. Always say yes to new adventures!</description>
 	<lastBuildDate>Thu, 17 Aug 2023 16:02:52 +0000</lastBuildDate>
@@ -347,5 +347,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 
 Page Caching using disk: enhanced (Requested URI contains query) 
 
-Served from: localhost @ 2023-09-17 16:04:31 by W3 Total Cache
+Served from: localhost @ 2023-10-14 21:28:38 by W3 Total Cache
 -->

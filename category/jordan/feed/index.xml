@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Jordan Archives - It feels good to be lost</title>
-	<atom:link href="http://localhost/itfeelsgoodtobelost/category/jordan/feed/?simply_static_page=182233" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/itfeelsgoodtobelost/category/jordan/feed/?simply_static_page=185031" rel="self" type="application/rss+xml" />
 	<link>https://itfeelsgoodtobelost.com/category/jordan/</link>
 	<description>Iga and Rafa, couple venturing around the world. Sharing our stories and tips for authentic experience seekers. Always say yes to new adventures!</description>
-	<lastBuildDate>Sat, 16 Sep 2023 18:11:33 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 14 Oct 2023 21:06:27 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -30,7 +30,6 @@
 	<item>
 		<title>1 Week Jordan Itinerary: Dead Sea Mystique to Desert Dreams</title>
 		<link>https://itfeelsgoodtobelost.com/1-week-jordan-itinerary/</link>
-					<comments>https://itfeelsgoodtobelost.com/1-week-jordan-itinerary/#respond</comments>
 		
 		<dc:creator><![CDATA[Rafa Garcia]]></dc:creator>
 		<pubDate>Sat, 16 Sep 2023 18:11:07 +0000</pubDate>
@@ -216,8 +215,6 @@
 <p><em>Enjoyed the article? We provide our content free and without the use of affiliates, this is how you know we&#8217;re authentic. If you&#8217;d like to support us to continue doing this, consider buying us a coffee!<script src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" type="text/javascript" data-name="bmc-button" data-slug="itfeelsgoodtobelost" data-color="#13d5d8" data-emoji="" data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#FFDD00"></script></em></p><p>The post <a rel="nofollow" href="https://itfeelsgoodtobelost.com/1-week-jordan-itinerary/">1 Week Jordan Itinerary: Dead Sea Mystique to Desert Dreams</a> appeared first on <a rel="nofollow" href="https://itfeelsgoodtobelost.com">It feels good to be lost</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://itfeelsgoodtobelost.com/1-week-jordan-itinerary/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
@@ -229,5 +226,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 
 Page Caching using disk: enhanced (Requested URI contains query) 
 
-Served from: localhost @ 2023-09-17 16:04:26 by W3 Total Cache
+Served from: localhost @ 2023-10-14 21:28:33 by W3 Total Cache
 -->
