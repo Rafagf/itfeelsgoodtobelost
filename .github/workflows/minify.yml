@@ -23,3 +23,4 @@ jobs:
         with:
           github_token: ${{ secrets.PAT_TOKEN }}
           branch: 'to-be-made-master'
+          force: true
