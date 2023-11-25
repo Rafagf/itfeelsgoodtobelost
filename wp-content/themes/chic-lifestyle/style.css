@@ -828,7 +828,7 @@ section .social-icons a{background-color: #000;line-height: 20px;display: inline
 
 section.logo img.custom-logo{margin:15px 0;}
 
-section.logo{padding: 45px 0;}
+section.logo{padding: 0px 0;}
 section.logo .site-title{font-size: 4em;margin-bottom: 0;margin-top: 0;}
 section.logo .site-description{font-size: 1em;margin: 0;border:none;padding: 0;}
 
@@ -836,9 +836,9 @@ section.logo .site-description{font-size: 1em;margin: 0;border:none;padding: 0;}
 /*header top aread ends*/
 
 
-.page-title h1,h1.category-title{margin: 30px 0;}
+.page-title h1,h1.category-title{margin: 0px 0;}
 
-.breadcrumbs{margin-top: 20px;font-size: 0.85em;color: #aaa;}
+.breadcrumbs{margin-top: 15px; font-size: 0.85em;color: #aaa;}
 .breadcrumbs a{color: #aaa;}
 
 
@@ -886,7 +886,7 @@ figure.feature-image{padding:15px 0 ;}
 
 .home-pages .col-sm-4{position: relative;}
 .home-pages .page-home-summary{position: absolute;top: 50%;left:0;right:0;text-align: center;}
-.home-pages .page-home-summary h5.category{padding: 10px 30px;background: #fff;display: inline-block;}
+.home-pages .page-home-summary h5.category{padding: 0px 30px;background: #fff;display: inline-block;}
 .home-pages img{width: 100%;}
 
 .full-width-view .news-snippet .featured-image{width: 100%;padding-bottom: 30px;padding-right: 0;}
@@ -953,7 +953,7 @@ section.main-content{padding-top: 60px;}
 
 small.date{color: #aaa;}
 
-footer{padding: 45px 0; color:#fff;margin-top: 30px;background: #383a42;clear: both;}
+footer{padding: 15px 0; color:#fff;margin-top: 15px;background: #383a42;clear: both;}
 footer h5.widget-title {color: #fff;text-align: left;margin-bottom: 20px;border-bottom: 1px solid #ffffff21;padding-bottom: 10px;}
 footer ul{margin: 0;}
 footer a{color: #fff !important;}
@@ -961,8 +961,8 @@ footer .widget,footer .about-wrapper{margin-bottom: 0;float: left;width: 25%;pad
 footer .widget:last-child {padding: 0;}
 
     /*inside page*/
-.inside-page{padding:0 0 60px 0;}
-.home-archive{padding-top: 60px;}
+.inside-page{padding:0 0 0px 0;}
+.home-archive{padding-top: 0px;}
 
 
     .comments-area {
@@ -1242,7 +1242,7 @@ footer .widget:last-child {padding: 0;}
         header section.main-nav .navbar-nav > li{display: block;border-bottom: 1px solid #eee;float: left;width: 100%;}
         header section.main-nav .navbar-nav > li:last-child{border:none;}
         section.logo {
-            padding: 15px 0;
+            padding: 0px;
         }
         .navbar .navbar-toggle {
             right: 0;
