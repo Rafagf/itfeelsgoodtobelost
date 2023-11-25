@@ -303,7 +303,7 @@ html {
 *:before,
 *:after {
     /* Inherit box-sizing to make it easier to change the property for components that leverage other behavior; see http://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/ */
-    
+
     box-sizing: inherit;
 }
 blockquote:before,
@@ -356,7 +356,7 @@ dd {
 img {
     height: auto;
     /* Make sure images are scaled correctly. */
-    
+
     max-width: 100%;
     /* Adhere to container width. */
 }
@@ -628,7 +628,7 @@ a:active {
 
 .infinite-scroll.neverending .site-footer {
     /* Theme Footer (when set to scrolling) */
-    
+
     display: none;
 }
 /* When Infinite Scroll has reached its end we need to re-display elements that were hidden (via .neverending) before. */
@@ -928,7 +928,7 @@ button.loadmore:hover{color: #999;}
 .owl-carousel .owl-nav .owl-prev{float: left;background: url(https://itfeelsgoodtobelost.com/wp-content/themes/chic-lifestyle/images/left.png) no-repeat center;}
 .owl-carousel .owl-nav .owl-next{float: right;background: url(https://itfeelsgoodtobelost.com/wp-content/themes/chic-lifestyle/images/right.png) no-repeat center;}
 
-.owl-carousel .owl-nav .owl-prev, .owl-carousel .owl-nav .owl-next{  
+.owl-carousel .owl-nav .owl-prev, .owl-carousel .owl-nav .owl-next{
     background-size: 20px;
     text-indent: -10000px;
     overflow: hidden;
@@ -1020,14 +1020,14 @@ footer .widget:last-child {padding: 0;}
     font-size: 0.8em;
     }
     /*widget*/
-    
+
     .widget {
         margin-bottom: 45px;
         float: left;
         width: 100%;
         position: relative;
     }
-   
+
     .widget ul,
     .widget ol {
         margin: 0;
@@ -1047,7 +1047,7 @@ footer .widget:last-child {padding: 0;}
     .widget_archive li,.widget_categories li{text-align: right;}
     .widget_archive li a,.widget_categories li a{float: left;}
 
-    
+
 
     .widget_search{background: #ccc;padding: 30px;}
     .widget_search label{width: 78%;float: left;}
@@ -1148,7 +1148,7 @@ footer .widget:last-child {padding: 0;}
 }
 .widget-instagram ul li:hover .instagram-meta{
     top: 50%;
-    
+
     }
 .widget-instagram ul .instagram-meta span{margin: 0 10px;}
 .widget-instagram .profile-link{
@@ -1218,8 +1218,8 @@ footer .widget:last-child {padding: 0;}
 
 
     @media (max-width: 991px) {
-       
-       
+
+
     }
     @media (max-width: 767px) {
         header .navbar .navbar-nav>li>a {
@@ -1238,7 +1238,7 @@ footer .widget:last-child {padding: 0;}
         header section.main-nav .navbar-nav .open .dropdown-menu {
             display: block !important;
         }
-        
+
         header section.main-nav .navbar-nav > li{display: block;border-bottom: 1px solid #eee;float: left;width: 100%;}
         header section.main-nav .navbar-nav > li:last-child{border:none;}
         section.logo {
@@ -1282,8 +1282,8 @@ footer .widget:last-child {padding: 0;}
         section.top-nav .search-social .social-icons{margin-top: 10px;}
 
         footer .widget, footer .about-wrapper{width: 100%;padding: 0;margin-bottom: 60px;}
-        
-       
+
+
 
         .banner-news .banner-news-list:nth-child(1){width: 100%}
         .banner-news .banner-news-list:nth-child(1) img,.banner-news .banner-news-list img{width: 100%;height: auto;}
