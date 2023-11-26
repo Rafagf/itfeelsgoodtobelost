@@ -826,7 +826,7 @@ section .social-icons li.pinterest a{background: #63ccf1;}
 section .social-icons li.instagram a{background: #e22291;}
 section .social-icons a{background-color: #000;line-height: 20px;display: inline-block;padding: 5px;width: 30px;color: #fff;text-align: center;}
 
-section.logo img.custom-logo{margin:15px 0;}
+section.logo img.custom-logo{margin:0px 0;}
 
 section.logo{padding: 0px 0;}
 section.logo .site-title{font-size: 4em;margin-bottom: 0;margin-top: 0;}
