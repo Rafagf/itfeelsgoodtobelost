@@ -1,4 +1,1 @@
-User-agent: ChatGPT-User
-Disallow: /
-
 Sitemap: https://www.example.com/sitemap.xml
