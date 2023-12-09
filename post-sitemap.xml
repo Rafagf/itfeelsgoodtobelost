@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://itfeelsgoodtobelost.com/</loc>
-		<lastmod>2023-11-25T12:38:37+00:00</lastmod>
+		<lastmod>2023-12-09T16:33:18+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://itfeelsgoodtobelost.com/cu-chi-tunnels-on-your-own/</loc>
@@ -370,6 +370,37 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2018/07/vietnam-class.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://itfeelsgoodtobelost.com/cabo-de-gata/</loc>
+		<lastmod>2023-12-09T16:33:18+00:00</lastmod>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/12/rafa-cabo-de-gata-scaled.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/12/lighthouse-scaled.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/12/genoveses-beach.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/12/las-negras-beach-scaled.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/12/isleta-views-scaled.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/12/escullos-van-scaled.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/12/van2-scaled-e1702138498422.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/12/van1-scaled-e1702138575850.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/12/van3-scaled.webp</image:loc>
 		</image:image>
 	</url>
 </urlset>
