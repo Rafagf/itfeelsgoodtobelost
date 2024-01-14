@@ -1,1 +1,1 @@
-Sitemap: https://www.example.com/sitemap.xml
+Sitemap: https://www.itfeelsgoodtobelost.com/sitemap.xml
