@@ -2,29 +2,13 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://itfeelsgoodtobelost.com/</loc>
-		<lastmod>2023-12-10T12:32:41+00:00</lastmod>
+		<lastmod>2024-01-14T21:22:10+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://itfeelsgoodtobelost.com/cu-chi-tunnels-on-your-own/</loc>
 		<lastmod>2023-08-17T07:35:27+00:00</lastmod>
 		<image:image>
 			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/08/Screen-Shot-2018-07-14-at-17.48.47_1800x1040_350.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://itfeelsgoodtobelost.com/best-things-to-do-in-koh-chang/</loc>
-		<lastmod>2023-10-14T20:45:33+00:00</lastmod>
-		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/08/koh-chang-motorbike.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2018/05/koh-chang-xx1-e1582292336841.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2018/05/koh-chang-sunset-e1582292527691.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2018/05/koh-chang15-e1582293916267.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -271,37 +255,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://itfeelsgoodtobelost.com/unforgettable-adventure-cycling-angkor-wat/</loc>
-		<lastmod>2023-11-25T12:35:24+00:00</lastmod>
-		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/11/rafa-iga-angkor-wat.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/06/angkor-wat-rafa.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/06/iga-rafa-bikes-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/06/iga-rafa-angkor-wat-temple.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/06/angkor-wat-iga-rafa-opposite.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/06/angkor-wat-temple-monk.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/06/angkor-wat-tree.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/06/angkor-wat-sunrise.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/06/angkor-wat-banner-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://itfeelsgoodtobelost.com/ninh-binh-travel-guide/</loc>
 		<lastmod>2023-11-25T12:37:15+00:00</lastmod>
 		<image:image>
@@ -324,8 +277,39 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>https://itfeelsgoodtobelost.com/cabo-de-gata/</loc>
+		<lastmod>2023-12-10T12:32:41+00:00</lastmod>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/12/rafa-cabo-de-gata-scaled.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/12/lighthouse-scaled.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/12/genoveses-beach.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/12/las-negras-beach-scaled.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/12/isleta-views-scaled.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/12/escullos-van-scaled.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/12/van2-scaled-e1702138498422.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/12/van1-scaled-e1702138575850.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/12/van3-scaled.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://itfeelsgoodtobelost.com/three-week-vietnam-itinerary/</loc>
-		<lastmod>2023-11-25T12:38:37+00:00</lastmod>
+		<lastmod>2024-01-14T21:19:53+00:00</lastmod>
 		<image:image>
 			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/11/hue-temple.webp</image:loc>
 		</image:image>
@@ -373,34 +357,50 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://itfeelsgoodtobelost.com/cabo-de-gata/</loc>
-		<lastmod>2023-12-10T12:32:41+00:00</lastmod>
+		<loc>https://itfeelsgoodtobelost.com/best-things-to-do-in-koh-chang/</loc>
+		<lastmod>2024-01-14T21:21:10+00:00</lastmod>
 		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/12/rafa-cabo-de-gata-scaled.webp</image:loc>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/08/koh-chang-motorbike.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/12/lighthouse-scaled.webp</image:loc>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2018/05/koh-chang-xx1-e1582292336841.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/12/genoveses-beach.webp</image:loc>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2018/05/koh-chang-sunset-e1582292527691.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/12/las-negras-beach-scaled.webp</image:loc>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2018/05/koh-chang15-e1582293916267.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://itfeelsgoodtobelost.com/unforgettable-adventure-cycling-angkor-wat/</loc>
+		<lastmod>2024-01-14T21:22:10+00:00</lastmod>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/11/rafa-iga-angkor-wat.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/12/isleta-views-scaled.webp</image:loc>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/06/angkor-wat-rafa.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/12/escullos-van-scaled.webp</image:loc>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/06/iga-rafa-bikes-2.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/12/van2-scaled-e1702138498422.webp</image:loc>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/06/iga-rafa-angkor-wat-temple.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/12/van1-scaled-e1702138575850.webp</image:loc>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/06/angkor-wat-iga-rafa-opposite.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/12/van3-scaled.webp</image:loc>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/06/angkor-wat-temple-monk.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/06/angkor-wat-tree.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/06/angkor-wat-sunrise.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/06/angkor-wat-banner-1.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
