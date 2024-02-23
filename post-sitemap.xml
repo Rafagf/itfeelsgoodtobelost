@@ -2,112 +2,13 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://itfeelsgoodtobelost.com/</loc>
-		<lastmod>2024-01-14T22:32:23+00:00</lastmod>
+		<lastmod>2024-02-23T18:52:20+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://itfeelsgoodtobelost.com/cu-chi-tunnels-on-your-own/</loc>
 		<lastmod>2023-08-17T07:35:27+00:00</lastmod>
 		<image:image>
 			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/08/Screen-Shot-2018-07-14-at-17.48.47_1800x1040_350.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://itfeelsgoodtobelost.com/couchsurfing-in-ho-chi-minh/</loc>
-		<lastmod>2023-10-14T20:50:34+00:00</lastmod>
-		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2018/07/vietnam-class.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2018/07/DSC09590.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://itfeelsgoodtobelost.com/bangkok-from-koh-samui/</loc>
-		<lastmod>2023-10-14T20:51:56+00:00</lastmod>
-		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/08/koh-samui-islands.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://itfeelsgoodtobelost.com/exploring-koh-samet-travel-guide/</loc>
-		<lastmod>2023-10-14T20:52:39+00:00</lastmod>
-		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/08/koh-samet3_1500x1000_200.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/05/monks-samet.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/05/koh-samed-beach-iga.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/05/koh-samet61_1_1333x2000_250.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/05/koh-samet-2_1333x2000_300.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2018/05/20180526_205828_0001.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://itfeelsgoodtobelost.com/ha-long-bay-or-sapa/</loc>
-		<lastmod>2023-10-14T20:54:55+00:00</lastmod>
-		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/08/ha-long-bay-rafa.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/04/sapa-girl-working.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2018/06/sapa7.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2018/06/dsc08395.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/04/ha-long-sapa-banner.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://itfeelsgoodtobelost.com/1-week-jordan-itinerary/</loc>
-		<lastmod>2023-10-14T21:06:27+00:00</lastmod>
-		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/09/jordan-camel-scaled-e1694886588455.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/09/rafa-dead-sea-scaled.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/09/wadi-mujib-scaled.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/09/rafa-wadi-e1694885656548.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/09/rafa-wadi-2.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/09/petra-2-scaled.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/09/petra1-scaled.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/09/wadi-rum-1-scaled.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/09/wadi-rum-2-scaled.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/09/amman-scaled.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://itfeelsgoodtobelost.com/crossing-the-cambodian-border/</loc>
-		<lastmod>2023-10-14T21:12:02+00:00</lastmod>
-		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/08/cambodia-border.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -130,28 +31,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2018/06/sapa3-1024x615.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://itfeelsgoodtobelost.com/3-rules-to-travel-cheap/</loc>
-		<lastmod>2023-10-14T21:16:59+00:00</lastmod>
-		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/08/dsc00220_2000x1500_350.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/02/porto.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/02/iga-japan.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2018/07/vietnam-class.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2018/06/dsc03553.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2018/11/IMG_20180516_193611.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -190,56 +69,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://itfeelsgoodtobelost.com/hanoi-travel-guide/</loc>
-		<lastmod>2023-11-25T12:30:27+00:00</lastmod>
-		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/11/hanoi-street.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/08/old-quarter-hotel-1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/08/la-selva.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/08/hanoi-lake-temple.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/08/iga-hanoi-temple-lake.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/08/hanoi-street-train.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2018/11/IMG_20180516_193611.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2018/10/Hanoi-5.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://itfeelsgoodtobelost.com/ninh-binh-travel-guide/</loc>
-		<lastmod>2023-11-25T12:37:15+00:00</lastmod>
-		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/11/vietnam-rafa-bike-ninh-binh.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/08/rafa-ninh-binh-top.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/08/ninh-binh-river-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2018/10/DSC08480-e1573422285571.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2019/11/DSC08901-e1573422119440.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2018/10/DSC08935-2.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://itfeelsgoodtobelost.com/cabo-de-gata/</loc>
 		<lastmod>2023-12-10T12:32:41+00:00</lastmod>
 		<image:image>
@@ -271,92 +100,42 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://itfeelsgoodtobelost.com/best-things-to-do-in-koh-chang/</loc>
-		<lastmod>2024-01-14T21:21:10+00:00</lastmod>
+		<loc>https://itfeelsgoodtobelost.com/1-week-jordan-itinerary/</loc>
+		<lastmod>2024-02-23T18:29:16+00:00</lastmod>
 		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/08/koh-chang-motorbike.jpg</image:loc>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/09/jordan-camel-scaled-e1694886588455.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2018/05/koh-chang-xx1-e1582292336841.jpg</image:loc>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/09/rafa-dead-sea-scaled.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2018/05/koh-chang-sunset-e1582292527691.jpg</image:loc>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/09/wadi-mujib-scaled.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2018/05/koh-chang15-e1582293916267.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://itfeelsgoodtobelost.com/unforgettable-adventure-cycling-angkor-wat/</loc>
-		<lastmod>2024-01-14T21:22:10+00:00</lastmod>
-		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/11/rafa-iga-angkor-wat.webp</image:loc>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/09/rafa-wadi-e1694885656548.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/06/angkor-wat-rafa.jpg</image:loc>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/09/rafa-wadi-2.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/06/iga-rafa-bikes-2.jpg</image:loc>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/09/petra-2-scaled.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/06/iga-rafa-angkor-wat-temple.jpg</image:loc>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/09/petra1-scaled.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/06/angkor-wat-iga-rafa-opposite.jpg</image:loc>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/09/wadi-rum-1-scaled.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/06/angkor-wat-temple-monk.jpg</image:loc>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/09/wadi-rum-2-scaled.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/06/angkor-wat-tree.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/06/angkor-wat-sunrise.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/06/angkor-wat-banner-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://itfeelsgoodtobelost.com/travel-to-singapore-on-a-budget/</loc>
-		<lastmod>2024-01-14T22:30:54+00:00</lastmod>
-		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/11/singapore-mosque.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/08/singapore-wall-1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/08/singapore-wall-2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2018/08/DSC01085.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2018/08/DSC01089.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2018/08/DSC01090.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2018/08/DSC01176.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2018/08/DSC01187.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/06/gardens-singapore-768x689.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2018/08/DSC01246-1024x731.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/06/houses-singapore.jpg</image:loc>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/09/amman-scaled.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>https://itfeelsgoodtobelost.com/three-week-vietnam-itinerary/</loc>
-		<lastmod>2024-01-14T22:32:23+00:00</lastmod>
+		<lastmod>2024-02-23T18:30:55+00:00</lastmod>
 		<image:image>
 			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/11/hue-temple.webp</image:loc>
 		</image:image>
@@ -401,6 +180,224 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2018/07/vietnam-class.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://itfeelsgoodtobelost.com/unforgettable-adventure-cycling-angkor-wat/</loc>
+		<lastmod>2024-02-23T18:31:44+00:00</lastmod>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/11/rafa-iga-angkor-wat.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/06/angkor-wat-rafa.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/06/iga-rafa-bikes-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/06/iga-rafa-angkor-wat-temple.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/06/angkor-wat-iga-rafa-opposite.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/06/angkor-wat-temple-monk.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/06/angkor-wat-tree.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/06/angkor-wat-sunrise.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/06/angkor-wat-banner-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://itfeelsgoodtobelost.com/hanoi-travel-guide/</loc>
+		<lastmod>2024-02-23T18:34:04+00:00</lastmod>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/11/hanoi-street.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/08/old-quarter-hotel-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/08/la-selva.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/08/hanoi-lake-temple.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/08/iga-hanoi-temple-lake.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/08/hanoi-street-train.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2018/11/IMG_20180516_193611.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://itfeelsgoodtobelost.com/travel-to-singapore-on-a-budget/</loc>
+		<lastmod>2024-02-23T18:35:10+00:00</lastmod>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/11/singapore-mosque.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/08/singapore-wall-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/08/singapore-wall-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2018/08/DSC01085.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2018/08/DSC01089.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2018/08/DSC01090.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2018/08/DSC01176.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2018/08/DSC01187.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/06/gardens-singapore-768x689.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2018/08/DSC01246-1024x731.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/06/houses-singapore.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://itfeelsgoodtobelost.com/best-things-to-do-in-koh-chang/</loc>
+		<lastmod>2024-02-23T18:36:15+00:00</lastmod>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/08/koh-chang-motorbike.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2018/05/koh-chang-xx1-e1582292336841.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2018/05/koh-chang-sunset-e1582292527691.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2018/05/koh-chang15-e1582293916267.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://itfeelsgoodtobelost.com/exploring-koh-samet-travel-guide/</loc>
+		<lastmod>2024-02-23T18:37:31+00:00</lastmod>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/08/koh-samet3_1500x1000_200.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/05/monks-samet.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/05/koh-samed-beach-iga.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/05/koh-samet61_1_1333x2000_250.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/05/koh-samet-2_1333x2000_300.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2018/05/20180526_205828_0001.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://itfeelsgoodtobelost.com/ha-long-bay-or-sapa/</loc>
+		<lastmod>2024-02-23T18:38:18+00:00</lastmod>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/08/ha-long-bay-rafa.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/04/sapa-girl-working.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2018/06/sapa7.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2018/06/dsc08395.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/04/ha-long-sapa-banner.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://itfeelsgoodtobelost.com/3-rules-to-travel-cheap/</loc>
+		<lastmod>2024-02-23T18:42:23+00:00</lastmod>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/08/dsc00220_2000x1500_350.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/02/porto.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/02/iga-japan.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2018/07/vietnam-class.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2018/06/dsc03553.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2018/11/IMG_20180516_193611.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://itfeelsgoodtobelost.com/crossing-the-cambodian-border/</loc>
+		<lastmod>2024-02-23T18:43:14+00:00</lastmod>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/08/cambodia-border.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://itfeelsgoodtobelost.com/bangkok-from-koh-samui/</loc>
+		<lastmod>2024-02-23T18:44:01+00:00</lastmod>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/08/koh-samui-islands.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://itfeelsgoodtobelost.com/couchsurfing-in-ho-chi-minh/</loc>
+		<lastmod>2024-02-23T18:44:23+00:00</lastmod>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2018/07/vietnam-class.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2018/07/DSC09590.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://itfeelsgoodtobelost.com/ninh-binh-travel-guide/</loc>
+		<lastmod>2024-02-23T18:52:20+00:00</lastmod>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/11/vietnam-rafa-bike-ninh-binh.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/08/rafa-ninh-binh-top.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/08/ninh-binh-river-2.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2018/10/DSC08480-e1573422285571.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2019/11/DSC08901-e1573422119440.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://itfeelsgoodtobelost.com/wp-content/uploads/2023/08/iga-ninh-binh-scaled.webp</image:loc>
 		</image:image>
 	</url>
 </urlset>
