@@ -1,16 +1,1 @@
-wp.customize.controlConstructor['kirki-radio'] = wp.customize.Control.extend({
-
-	ready: function() {
-
-		'use strict';
-
-		var control = this;
-
-		// Change the value
-		this.container.on( 'change', 'input', function() {
-			control.setting.set( jQuery( this ).val() );
-		});
-
-	}
-
-});
+wp.customize.controlConstructor["kirki-radio"]=wp.customize.Control.extend({ready:function(){"use strict";var t=this;this.container.on("change","input",(function(){t.setting.set(jQuery(this).val())}))}});

@@ -1,238 +1,26 @@
 /*! elementor - v3.15.0 - 31-07-2023 */
-(self["webpackChunkelementor"] = self["webpackChunkelementor"] || []).push([["modules_nested-elements_assets_js_editor_views_view_js"],{
-
-/***/ "../modules/nested-elements/assets/js/editor/views/view.js":
+(self.webpackChunkelementor=self.webpackChunkelementor||[]).push([["modules_nested-elements_assets_js_editor_views_view_js"],{"../modules/nested-elements/assets/js/editor/views/view.js":
 /*!*****************************************************************!*\
   !*** ../modules/nested-elements/assets/js/editor/views/view.js ***!
-  \*****************************************************************/
-/***/ ((__unused_webpack_module, exports, __webpack_require__) => {
-
-"use strict";
-
-
-var _interopRequireDefault = __webpack_require__(/*! @babel/runtime/helpers/interopRequireDefault */ "../node_modules/@babel/runtime/helpers/interopRequireDefault.js");
-Object.defineProperty(exports, "__esModule", ({
-  value: true
-}));
-exports["default"] = exports.View = void 0;
-var _classCallCheck2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/classCallCheck */ "../node_modules/@babel/runtime/helpers/classCallCheck.js"));
-var _createClass2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/createClass */ "../node_modules/@babel/runtime/helpers/createClass.js"));
-var _get2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/get */ "../node_modules/@babel/runtime/helpers/get.js"));
-var _inherits2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/inherits */ "../node_modules/@babel/runtime/helpers/inherits.js"));
-var _possibleConstructorReturn2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/possibleConstructorReturn */ "../node_modules/@babel/runtime/helpers/possibleConstructorReturn.js"));
-var _getPrototypeOf2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/getPrototypeOf */ "../node_modules/@babel/runtime/helpers/getPrototypeOf.js"));
-function _createSuper(Derived) { var hasNativeReflectConstruct = _isNativeReflectConstruct(); return function _createSuperInternal() { var Super = (0, _getPrototypeOf2.default)(Derived), result; if (hasNativeReflectConstruct) { var NewTarget = (0, _getPrototypeOf2.default)(this).constructor; result = Reflect.construct(Super, arguments, NewTarget); } else { result = Super.apply(this, arguments); } return (0, _possibleConstructorReturn2.default)(this, result); }; }
-function _isNativeReflectConstruct() { if (typeof Reflect === "undefined" || !Reflect.construct) return false; if (Reflect.construct.sham) return false; if (typeof Proxy === "function") return true; try { Boolean.prototype.valueOf.call(Reflect.construct(Boolean, [], function () {})); return true; } catch (e) { return false; } }
-var View = /*#__PURE__*/function (_$e$components$get$ex) {
-  (0, _inherits2.default)(View, _$e$components$get$ex);
-  var _super = _createSuper(View);
-  function View() {
-    (0, _classCallCheck2.default)(this, View);
-    return _super.apply(this, arguments);
-  }
-  (0, _createClass2.default)(View, [{
-    key: "events",
-    value: function events() {
-      var _this = this;
-      var events = (0, _get2.default)((0, _getPrototypeOf2.default)(View.prototype), "events", this).call(this);
-      events.click = function (e) {
-        // If the clicked Nested Element is not within the currently edited document, don't do anything with it.
-        if (elementor.documents.currentDocument.id.toString() !== e.target.closest('.elementor').dataset.elementorId) {
-          return;
-        }
-        var closest = e.target.closest('.elementor-element');
-        var model = _this.options.model,
-          view = _this;
-
-        // For clicks on container/widget.
-        if (['container', 'widget'].includes(closest === null || closest === void 0 ? void 0 : closest.dataset.element_type)) {
-          // eslint-disable-line camelcase
-          // In case the container empty, click should be handled by the EmptyView.
-          var container = elementor.getContainer(closest.dataset.id);
-          if (container.view.isEmpty()) {
-            return true;
-          }
-
-          // If not empty, open it.
-          model = container.model;
-          view = container.view;
-        }
-        e.stopPropagation();
-        $e.run('panel/editor/open', {
-          model: model,
-          view: view
-        });
-      };
-      return events;
-    }
-
-    /**
-     * Function renderHTML().
-     *
-     * The `renderHTML()` method is overridden as it causes redundant renders when removing focus from any nested element.
-     * This is because the original `renderHTML()` method sets `editModel.renderOnLeave = true;`.
-     */
-  }, {
-    key: "renderHTML",
-    value: function renderHTML() {
-      var templateType = this.getTemplateType(),
-        editModel = this.getEditModel();
-      if ('js' === templateType) {
-        editModel.setHtmlCache();
-        this.render();
-      } else {
-        editModel.renderRemoteServer();
-      }
-    }
-  }]);
-  return View;
-}($e.components.get('nested-elements/nested-repeater').exports.NestedViewBase);
-exports.View = View;
-var _default = View;
-exports["default"] = _default;
-
-/***/ }),
-
-/***/ "../node_modules/@babel/runtime/helpers/assertThisInitialized.js":
+  \*****************************************************************/(e,t,r)=>{"use strict";var o=r(/*! @babel/runtime/helpers/interopRequireDefault */"../node_modules/@babel/runtime/helpers/interopRequireDefault.js");Object.defineProperty(t,"__esModule",{value:!0}),t.default=t.View=void 0;var s=o(r(/*! @babel/runtime/helpers/classCallCheck */"../node_modules/@babel/runtime/helpers/classCallCheck.js")),n=o(r(/*! @babel/runtime/helpers/createClass */"../node_modules/@babel/runtime/helpers/createClass.js")),l=o(r(/*! @babel/runtime/helpers/get */"../node_modules/@babel/runtime/helpers/get.js")),u=o(r(/*! @babel/runtime/helpers/inherits */"../node_modules/@babel/runtime/helpers/inherits.js")),i=o(r(/*! @babel/runtime/helpers/possibleConstructorReturn */"../node_modules/@babel/runtime/helpers/possibleConstructorReturn.js")),p=o(r(/*! @babel/runtime/helpers/getPrototypeOf */"../node_modules/@babel/runtime/helpers/getPrototypeOf.js"));function a(e){var t=function(){if("undefined"==typeof Reflect||!Reflect.construct)return!1;if(Reflect.construct.sham)return!1;if("function"==typeof Proxy)return!0;try{return Boolean.prototype.valueOf.call(Reflect.construct(Boolean,[],(function(){}))),!0}catch(e){return!1}}();return function(){var r,o=(0,p.default)(e);if(t){var s=(0,p.default)(this).constructor;r=Reflect.construct(o,arguments,s)}else r=o.apply(this,arguments);return(0,i.default)(this,r)}}var d=function(e){(0,u.default)(r,e);var t=a(r);function r(){return(0,s.default)(this,r),t.apply(this,arguments)}return(0,n.default)(r,[{key:"events",value:function(){var e=this,t=(0,l.default)((0,p.default)(r.prototype),"events",this).call(this);return t.click=function(t){if(elementor.documents.currentDocument.id.toString()===t.target.closest(".elementor").dataset.elementorId){var r=t.target.closest(".elementor-element"),o=e.options.model,s=e;if(["container","widget"].includes(null==r?void 0:r.dataset.element_type)){var n=elementor.getContainer(r.dataset.id);if(n.view.isEmpty())return!0;o=n.model,s=n.view}t.stopPropagation(),$e.run("panel/editor/open",{model:o,view:s})}},t}},{key:"renderHTML",value:function(){var e=this.getTemplateType(),t=this.getEditModel();"js"===e?(t.setHtmlCache(),this.render()):t.renderRemoteServer()}}]),r}($e.components.get("nested-elements/nested-repeater").exports.NestedViewBase);t.View=d;var f=d;t.default=f},"../node_modules/@babel/runtime/helpers/assertThisInitialized.js":
 /*!***********************************************************************!*\
   !*** ../node_modules/@babel/runtime/helpers/assertThisInitialized.js ***!
-  \***********************************************************************/
-/***/ ((module) => {
-
-function _assertThisInitialized(self) {
-  if (self === void 0) {
-    throw new ReferenceError("this hasn't been initialised - super() hasn't been called");
-  }
-  return self;
-}
-module.exports = _assertThisInitialized, module.exports.__esModule = true, module.exports["default"] = module.exports;
-
-/***/ }),
-
-/***/ "../node_modules/@babel/runtime/helpers/get.js":
+  \***********************************************************************/e=>{e.exports=function(e){if(void 0===e)throw new ReferenceError("this hasn't been initialised - super() hasn't been called");return e},e.exports.__esModule=!0,e.exports.default=e.exports},"../node_modules/@babel/runtime/helpers/get.js":
 /*!*****************************************************!*\
   !*** ../node_modules/@babel/runtime/helpers/get.js ***!
-  \*****************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-var superPropBase = __webpack_require__(/*! ./superPropBase.js */ "../node_modules/@babel/runtime/helpers/superPropBase.js");
-function _get() {
-  if (typeof Reflect !== "undefined" && Reflect.get) {
-    module.exports = _get = Reflect.get.bind(), module.exports.__esModule = true, module.exports["default"] = module.exports;
-  } else {
-    module.exports = _get = function _get(target, property, receiver) {
-      var base = superPropBase(target, property);
-      if (!base) return;
-      var desc = Object.getOwnPropertyDescriptor(base, property);
-      if (desc.get) {
-        return desc.get.call(arguments.length < 3 ? target : receiver);
-      }
-      return desc.value;
-    }, module.exports.__esModule = true, module.exports["default"] = module.exports;
-  }
-  return _get.apply(this, arguments);
-}
-module.exports = _get, module.exports.__esModule = true, module.exports["default"] = module.exports;
-
-/***/ }),
-
-/***/ "../node_modules/@babel/runtime/helpers/getPrototypeOf.js":
+  \*****************************************************/(e,t,r)=>{var o=r(/*! ./superPropBase.js */"../node_modules/@babel/runtime/helpers/superPropBase.js");function s(){return"undefined"!=typeof Reflect&&Reflect.get?(e.exports=s=Reflect.get.bind(),e.exports.__esModule=!0,e.exports.default=e.exports):(e.exports=s=function(e,t,r){var s=o(e,t);if(s){var n=Object.getOwnPropertyDescriptor(s,t);return n.get?n.get.call(arguments.length<3?e:r):n.value}},e.exports.__esModule=!0,e.exports.default=e.exports),s.apply(this,arguments)}e.exports=s,e.exports.__esModule=!0,e.exports.default=e.exports},"../node_modules/@babel/runtime/helpers/getPrototypeOf.js":
 /*!****************************************************************!*\
   !*** ../node_modules/@babel/runtime/helpers/getPrototypeOf.js ***!
-  \****************************************************************/
-/***/ ((module) => {
-
-function _getPrototypeOf(o) {
-  module.exports = _getPrototypeOf = Object.setPrototypeOf ? Object.getPrototypeOf.bind() : function _getPrototypeOf(o) {
-    return o.__proto__ || Object.getPrototypeOf(o);
-  }, module.exports.__esModule = true, module.exports["default"] = module.exports;
-  return _getPrototypeOf(o);
-}
-module.exports = _getPrototypeOf, module.exports.__esModule = true, module.exports["default"] = module.exports;
-
-/***/ }),
-
-/***/ "../node_modules/@babel/runtime/helpers/inherits.js":
+  \****************************************************************/e=>{function t(r){return e.exports=t=Object.setPrototypeOf?Object.getPrototypeOf.bind():function(e){return e.__proto__||Object.getPrototypeOf(e)},e.exports.__esModule=!0,e.exports.default=e.exports,t(r)}e.exports=t,e.exports.__esModule=!0,e.exports.default=e.exports},"../node_modules/@babel/runtime/helpers/inherits.js":
 /*!**********************************************************!*\
   !*** ../node_modules/@babel/runtime/helpers/inherits.js ***!
-  \**********************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-var setPrototypeOf = __webpack_require__(/*! ./setPrototypeOf.js */ "../node_modules/@babel/runtime/helpers/setPrototypeOf.js");
-function _inherits(subClass, superClass) {
-  if (typeof superClass !== "function" && superClass !== null) {
-    throw new TypeError("Super expression must either be null or a function");
-  }
-  subClass.prototype = Object.create(superClass && superClass.prototype, {
-    constructor: {
-      value: subClass,
-      writable: true,
-      configurable: true
-    }
-  });
-  Object.defineProperty(subClass, "prototype", {
-    writable: false
-  });
-  if (superClass) setPrototypeOf(subClass, superClass);
-}
-module.exports = _inherits, module.exports.__esModule = true, module.exports["default"] = module.exports;
-
-/***/ }),
-
-/***/ "../node_modules/@babel/runtime/helpers/possibleConstructorReturn.js":
+  \**********************************************************/(e,t,r)=>{var o=r(/*! ./setPrototypeOf.js */"../node_modules/@babel/runtime/helpers/setPrototypeOf.js");e.exports=function(e,t){if("function"!=typeof t&&null!==t)throw new TypeError("Super expression must either be null or a function");e.prototype=Object.create(t&&t.prototype,{constructor:{value:e,writable:!0,configurable:!0}}),Object.defineProperty(e,"prototype",{writable:!1}),t&&o(e,t)},e.exports.__esModule=!0,e.exports.default=e.exports},"../node_modules/@babel/runtime/helpers/possibleConstructorReturn.js":
 /*!***************************************************************************!*\
   !*** ../node_modules/@babel/runtime/helpers/possibleConstructorReturn.js ***!
-  \***************************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-var _typeof = (__webpack_require__(/*! ./typeof.js */ "../node_modules/@babel/runtime/helpers/typeof.js")["default"]);
-var assertThisInitialized = __webpack_require__(/*! ./assertThisInitialized.js */ "../node_modules/@babel/runtime/helpers/assertThisInitialized.js");
-function _possibleConstructorReturn(self, call) {
-  if (call && (_typeof(call) === "object" || typeof call === "function")) {
-    return call;
-  } else if (call !== void 0) {
-    throw new TypeError("Derived constructors may only return object or undefined");
-  }
-  return assertThisInitialized(self);
-}
-module.exports = _possibleConstructorReturn, module.exports.__esModule = true, module.exports["default"] = module.exports;
-
-/***/ }),
-
-/***/ "../node_modules/@babel/runtime/helpers/setPrototypeOf.js":
+  \***************************************************************************/(e,t,r)=>{var o=r(/*! ./typeof.js */"../node_modules/@babel/runtime/helpers/typeof.js").default,s=r(/*! ./assertThisInitialized.js */"../node_modules/@babel/runtime/helpers/assertThisInitialized.js");e.exports=function(e,t){if(t&&("object"===o(t)||"function"==typeof t))return t;if(void 0!==t)throw new TypeError("Derived constructors may only return object or undefined");return s(e)},e.exports.__esModule=!0,e.exports.default=e.exports},"../node_modules/@babel/runtime/helpers/setPrototypeOf.js":
 /*!****************************************************************!*\
   !*** ../node_modules/@babel/runtime/helpers/setPrototypeOf.js ***!
-  \****************************************************************/
-/***/ ((module) => {
-
-function _setPrototypeOf(o, p) {
-  module.exports = _setPrototypeOf = Object.setPrototypeOf ? Object.setPrototypeOf.bind() : function _setPrototypeOf(o, p) {
-    o.__proto__ = p;
-    return o;
-  }, module.exports.__esModule = true, module.exports["default"] = module.exports;
-  return _setPrototypeOf(o, p);
-}
-module.exports = _setPrototypeOf, module.exports.__esModule = true, module.exports["default"] = module.exports;
-
-/***/ }),
-
-/***/ "../node_modules/@babel/runtime/helpers/superPropBase.js":
+  \****************************************************************/e=>{function t(r,o){return e.exports=t=Object.setPrototypeOf?Object.setPrototypeOf.bind():function(e,t){return e.__proto__=t,e},e.exports.__esModule=!0,e.exports.default=e.exports,t(r,o)}e.exports=t,e.exports.__esModule=!0,e.exports.default=e.exports},"../node_modules/@babel/runtime/helpers/superPropBase.js":
 /*!***************************************************************!*\
   !*** ../node_modules/@babel/runtime/helpers/superPropBase.js ***!
-  \***************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-var getPrototypeOf = __webpack_require__(/*! ./getPrototypeOf.js */ "../node_modules/@babel/runtime/helpers/getPrototypeOf.js");
-function _superPropBase(object, property) {
-  while (!Object.prototype.hasOwnProperty.call(object, property)) {
-    object = getPrototypeOf(object);
-    if (object === null) break;
-  }
-  return object;
-}
-module.exports = _superPropBase, module.exports.__esModule = true, module.exports["default"] = module.exports;
-
-/***/ })
-
-}]);
-//# sourceMappingURL=96124ada3ba05750eec1.bundle.js.map
+  \***************************************************************/(e,t,r)=>{var o=r(/*! ./getPrototypeOf.js */"../node_modules/@babel/runtime/helpers/getPrototypeOf.js");e.exports=function(e,t){for(;!Object.prototype.hasOwnProperty.call(e,t)&&null!==(e=o(e)););return e},e.exports.__esModule=!0,e.exports.default=e.exports}}]);

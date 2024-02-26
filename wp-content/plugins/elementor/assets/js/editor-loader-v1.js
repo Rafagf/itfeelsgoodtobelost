@@ -1,13 +1,5 @@
-/*! elementor - v3.15.0 - 31-07-2023 */
-/******/ (() => { // webpackBootstrap
-/******/ 	"use strict";
-var __webpack_exports__ = {};
+/*! elementor - v3.15.0 - 31-07-2023 */(()=>{"use strict";
 /*!****************************************************!*\
   !*** ../core/editor/assets/js/editor-loader-v1.js ***!
   \****************************************************/
-
-
-window.elementor.start();
-/******/ })()
-;
-//# sourceMappingURL=editor-loader-v1.js.map
+window.elementor.start()})();

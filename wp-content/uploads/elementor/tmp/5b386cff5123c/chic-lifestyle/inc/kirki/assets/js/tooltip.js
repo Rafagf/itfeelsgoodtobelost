@@ -1,3 +1,1 @@
-jQuery( document ).ready( function( $ ) {
-	$( 'a.tooltip' ).tooltip();
-});
+jQuery(document).ready((function(o){o("a.tooltip").tooltip()}));

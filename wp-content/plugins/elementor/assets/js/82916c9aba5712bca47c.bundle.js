@@ -1,248 +1,35 @@
 /*! elementor - v3.15.0 - 31-07-2023 */
-(self["webpackChunkelementor"] = self["webpackChunkelementor"] || []).push([["modules_nested-tabs_assets_js_editor_module_js"],{
-
-/***/ "../modules/nested-tabs/assets/js/editor/module.js":
+(self.webpackChunkelementor=self.webpackChunkelementor||[]).push([["modules_nested-tabs_assets_js_editor_module_js"],{"../modules/nested-tabs/assets/js/editor/module.js":
 /*!*********************************************************!*\
   !*** ../modules/nested-tabs/assets/js/editor/module.js ***!
-  \*********************************************************/
-/***/ ((__unused_webpack_module, exports, __webpack_require__) => {
-
-"use strict";
-
-
-var _interopRequireDefault = __webpack_require__(/*! @babel/runtime/helpers/interopRequireDefault */ "../node_modules/@babel/runtime/helpers/interopRequireDefault.js");
-Object.defineProperty(exports, "__esModule", ({
-  value: true
-}));
-exports["default"] = void 0;
-var _createClass2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/createClass */ "../node_modules/@babel/runtime/helpers/createClass.js"));
-var _classCallCheck2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/classCallCheck */ "../node_modules/@babel/runtime/helpers/classCallCheck.js"));
-var _nestedTabs = _interopRequireDefault(__webpack_require__(/*! ./nested-tabs */ "../modules/nested-tabs/assets/js/editor/nested-tabs.js"));
-var Module = /*#__PURE__*/(0, _createClass2.default)(function Module() {
-  (0, _classCallCheck2.default)(this, Module);
-  elementor.elementsManager.registerElementType(new _nestedTabs.default());
-});
-exports["default"] = Module;
-
-/***/ }),
-
-/***/ "../modules/nested-tabs/assets/js/editor/nested-tabs.js":
+  \*********************************************************/(e,t,r)=>{"use strict";var o=r(/*! @babel/runtime/helpers/interopRequireDefault */"../node_modules/@babel/runtime/helpers/interopRequireDefault.js");Object.defineProperty(t,"__esModule",{value:!0}),t.default=void 0;var s=o(r(/*! @babel/runtime/helpers/createClass */"../node_modules/@babel/runtime/helpers/createClass.js")),n=o(r(/*! @babel/runtime/helpers/classCallCheck */"../node_modules/@babel/runtime/helpers/classCallCheck.js")),l=o(r(/*! ./nested-tabs */"../modules/nested-tabs/assets/js/editor/nested-tabs.js")),u=(0,s.default)((function e(){(0,n.default)(this,e),elementor.elementsManager.registerElementType(new l.default)}));t.default=u},"../modules/nested-tabs/assets/js/editor/nested-tabs.js":
 /*!**************************************************************!*\
   !*** ../modules/nested-tabs/assets/js/editor/nested-tabs.js ***!
-  \**************************************************************/
-/***/ ((__unused_webpack_module, exports, __webpack_require__) => {
-
-"use strict";
-
-
-var _interopRequireDefault = __webpack_require__(/*! @babel/runtime/helpers/interopRequireDefault */ "../node_modules/@babel/runtime/helpers/interopRequireDefault.js");
-Object.defineProperty(exports, "__esModule", ({
-  value: true
-}));
-exports["default"] = exports.NestedTabs = void 0;
-var _classCallCheck2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/classCallCheck */ "../node_modules/@babel/runtime/helpers/classCallCheck.js"));
-var _createClass2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/createClass */ "../node_modules/@babel/runtime/helpers/createClass.js"));
-var _inherits2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/inherits */ "../node_modules/@babel/runtime/helpers/inherits.js"));
-var _possibleConstructorReturn2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/possibleConstructorReturn */ "../node_modules/@babel/runtime/helpers/possibleConstructorReturn.js"));
-var _getPrototypeOf2 = _interopRequireDefault(__webpack_require__(/*! @babel/runtime/helpers/getPrototypeOf */ "../node_modules/@babel/runtime/helpers/getPrototypeOf.js"));
-function _createSuper(Derived) { var hasNativeReflectConstruct = _isNativeReflectConstruct(); return function _createSuperInternal() { var Super = (0, _getPrototypeOf2.default)(Derived), result; if (hasNativeReflectConstruct) { var NewTarget = (0, _getPrototypeOf2.default)(this).constructor; result = Reflect.construct(Super, arguments, NewTarget); } else { result = Super.apply(this, arguments); } return (0, _possibleConstructorReturn2.default)(this, result); }; }
-function _isNativeReflectConstruct() { if (typeof Reflect === "undefined" || !Reflect.construct) return false; if (Reflect.construct.sham) return false; if (typeof Proxy === "function") return true; try { Boolean.prototype.valueOf.call(Reflect.construct(Boolean, [], function () {})); return true; } catch (e) { return false; } }
-var NestedTabs = /*#__PURE__*/function (_elementor$modules$el) {
-  (0, _inherits2.default)(NestedTabs, _elementor$modules$el);
-  var _super = _createSuper(NestedTabs);
-  function NestedTabs() {
-    (0, _classCallCheck2.default)(this, NestedTabs);
-    return _super.apply(this, arguments);
-  }
-  (0, _createClass2.default)(NestedTabs, [{
-    key: "getType",
-    value: function getType() {
-      return 'nested-tabs';
-    }
-  }]);
-  return NestedTabs;
-}(elementor.modules.elements.types.NestedElementBase);
-exports.NestedTabs = NestedTabs;
-var _default = NestedTabs;
-exports["default"] = _default;
-
-/***/ }),
-
-/***/ "../node_modules/@babel/runtime/helpers/assertThisInitialized.js":
+  \**************************************************************/(e,t,r)=>{"use strict";var o=r(/*! @babel/runtime/helpers/interopRequireDefault */"../node_modules/@babel/runtime/helpers/interopRequireDefault.js");Object.defineProperty(t,"__esModule",{value:!0}),t.default=t.NestedTabs=void 0;var s=o(r(/*! @babel/runtime/helpers/classCallCheck */"../node_modules/@babel/runtime/helpers/classCallCheck.js")),n=o(r(/*! @babel/runtime/helpers/createClass */"../node_modules/@babel/runtime/helpers/createClass.js")),l=o(r(/*! @babel/runtime/helpers/inherits */"../node_modules/@babel/runtime/helpers/inherits.js")),u=o(r(/*! @babel/runtime/helpers/possibleConstructorReturn */"../node_modules/@babel/runtime/helpers/possibleConstructorReturn.js")),a=o(r(/*! @babel/runtime/helpers/getPrototypeOf */"../node_modules/@babel/runtime/helpers/getPrototypeOf.js"));function i(e){var t=function(){if("undefined"==typeof Reflect||!Reflect.construct)return!1;if(Reflect.construct.sham)return!1;if("function"==typeof Proxy)return!0;try{return Boolean.prototype.valueOf.call(Reflect.construct(Boolean,[],(function(){}))),!0}catch(e){return!1}}();return function(){var r,o=(0,a.default)(e);if(t){var s=(0,a.default)(this).constructor;r=Reflect.construct(o,arguments,s)}else r=o.apply(this,arguments);return(0,u.default)(this,r)}}var d=function(e){(0,l.default)(r,e);var t=i(r);function r(){return(0,s.default)(this,r),t.apply(this,arguments)}return(0,n.default)(r,[{key:"getType",value:function(){return"nested-tabs"}}]),r}(elementor.modules.elements.types.NestedElementBase);t.NestedTabs=d;var p=d;t.default=p},"../node_modules/@babel/runtime/helpers/assertThisInitialized.js":
 /*!***********************************************************************!*\
   !*** ../node_modules/@babel/runtime/helpers/assertThisInitialized.js ***!
-  \***********************************************************************/
-/***/ ((module) => {
-
-function _assertThisInitialized(self) {
-  if (self === void 0) {
-    throw new ReferenceError("this hasn't been initialised - super() hasn't been called");
-  }
-  return self;
-}
-module.exports = _assertThisInitialized, module.exports.__esModule = true, module.exports["default"] = module.exports;
-
-/***/ }),
-
-/***/ "../node_modules/@babel/runtime/helpers/classCallCheck.js":
+  \***********************************************************************/e=>{e.exports=function(e){if(void 0===e)throw new ReferenceError("this hasn't been initialised - super() hasn't been called");return e},e.exports.__esModule=!0,e.exports.default=e.exports},"../node_modules/@babel/runtime/helpers/classCallCheck.js":
 /*!****************************************************************!*\
   !*** ../node_modules/@babel/runtime/helpers/classCallCheck.js ***!
-  \****************************************************************/
-/***/ ((module) => {
-
-function _classCallCheck(instance, Constructor) {
-  if (!(instance instanceof Constructor)) {
-    throw new TypeError("Cannot call a class as a function");
-  }
-}
-module.exports = _classCallCheck, module.exports.__esModule = true, module.exports["default"] = module.exports;
-
-/***/ }),
-
-/***/ "../node_modules/@babel/runtime/helpers/createClass.js":
+  \****************************************************************/e=>{e.exports=function(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")},e.exports.__esModule=!0,e.exports.default=e.exports},"../node_modules/@babel/runtime/helpers/createClass.js":
 /*!*************************************************************!*\
   !*** ../node_modules/@babel/runtime/helpers/createClass.js ***!
-  \*************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-var toPropertyKey = __webpack_require__(/*! ./toPropertyKey.js */ "../node_modules/@babel/runtime/helpers/toPropertyKey.js");
-function _defineProperties(target, props) {
-  for (var i = 0; i < props.length; i++) {
-    var descriptor = props[i];
-    descriptor.enumerable = descriptor.enumerable || false;
-    descriptor.configurable = true;
-    if ("value" in descriptor) descriptor.writable = true;
-    Object.defineProperty(target, toPropertyKey(descriptor.key), descriptor);
-  }
-}
-function _createClass(Constructor, protoProps, staticProps) {
-  if (protoProps) _defineProperties(Constructor.prototype, protoProps);
-  if (staticProps) _defineProperties(Constructor, staticProps);
-  Object.defineProperty(Constructor, "prototype", {
-    writable: false
-  });
-  return Constructor;
-}
-module.exports = _createClass, module.exports.__esModule = true, module.exports["default"] = module.exports;
-
-/***/ }),
-
-/***/ "../node_modules/@babel/runtime/helpers/getPrototypeOf.js":
+  \*************************************************************/(e,t,r)=>{var o=r(/*! ./toPropertyKey.js */"../node_modules/@babel/runtime/helpers/toPropertyKey.js");function s(e,t){for(var r=0;r<t.length;r++){var s=t[r];s.enumerable=s.enumerable||!1,s.configurable=!0,"value"in s&&(s.writable=!0),Object.defineProperty(e,o(s.key),s)}}e.exports=function(e,t,r){return t&&s(e.prototype,t),r&&s(e,r),Object.defineProperty(e,"prototype",{writable:!1}),e},e.exports.__esModule=!0,e.exports.default=e.exports},"../node_modules/@babel/runtime/helpers/getPrototypeOf.js":
 /*!****************************************************************!*\
   !*** ../node_modules/@babel/runtime/helpers/getPrototypeOf.js ***!
-  \****************************************************************/
-/***/ ((module) => {
-
-function _getPrototypeOf(o) {
-  module.exports = _getPrototypeOf = Object.setPrototypeOf ? Object.getPrototypeOf.bind() : function _getPrototypeOf(o) {
-    return o.__proto__ || Object.getPrototypeOf(o);
-  }, module.exports.__esModule = true, module.exports["default"] = module.exports;
-  return _getPrototypeOf(o);
-}
-module.exports = _getPrototypeOf, module.exports.__esModule = true, module.exports["default"] = module.exports;
-
-/***/ }),
-
-/***/ "../node_modules/@babel/runtime/helpers/inherits.js":
+  \****************************************************************/e=>{function t(r){return e.exports=t=Object.setPrototypeOf?Object.getPrototypeOf.bind():function(e){return e.__proto__||Object.getPrototypeOf(e)},e.exports.__esModule=!0,e.exports.default=e.exports,t(r)}e.exports=t,e.exports.__esModule=!0,e.exports.default=e.exports},"../node_modules/@babel/runtime/helpers/inherits.js":
 /*!**********************************************************!*\
   !*** ../node_modules/@babel/runtime/helpers/inherits.js ***!
-  \**********************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-var setPrototypeOf = __webpack_require__(/*! ./setPrototypeOf.js */ "../node_modules/@babel/runtime/helpers/setPrototypeOf.js");
-function _inherits(subClass, superClass) {
-  if (typeof superClass !== "function" && superClass !== null) {
-    throw new TypeError("Super expression must either be null or a function");
-  }
-  subClass.prototype = Object.create(superClass && superClass.prototype, {
-    constructor: {
-      value: subClass,
-      writable: true,
-      configurable: true
-    }
-  });
-  Object.defineProperty(subClass, "prototype", {
-    writable: false
-  });
-  if (superClass) setPrototypeOf(subClass, superClass);
-}
-module.exports = _inherits, module.exports.__esModule = true, module.exports["default"] = module.exports;
-
-/***/ }),
-
-/***/ "../node_modules/@babel/runtime/helpers/possibleConstructorReturn.js":
+  \**********************************************************/(e,t,r)=>{var o=r(/*! ./setPrototypeOf.js */"../node_modules/@babel/runtime/helpers/setPrototypeOf.js");e.exports=function(e,t){if("function"!=typeof t&&null!==t)throw new TypeError("Super expression must either be null or a function");e.prototype=Object.create(t&&t.prototype,{constructor:{value:e,writable:!0,configurable:!0}}),Object.defineProperty(e,"prototype",{writable:!1}),t&&o(e,t)},e.exports.__esModule=!0,e.exports.default=e.exports},"../node_modules/@babel/runtime/helpers/possibleConstructorReturn.js":
 /*!***************************************************************************!*\
   !*** ../node_modules/@babel/runtime/helpers/possibleConstructorReturn.js ***!
-  \***************************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-var _typeof = (__webpack_require__(/*! ./typeof.js */ "../node_modules/@babel/runtime/helpers/typeof.js")["default"]);
-var assertThisInitialized = __webpack_require__(/*! ./assertThisInitialized.js */ "../node_modules/@babel/runtime/helpers/assertThisInitialized.js");
-function _possibleConstructorReturn(self, call) {
-  if (call && (_typeof(call) === "object" || typeof call === "function")) {
-    return call;
-  } else if (call !== void 0) {
-    throw new TypeError("Derived constructors may only return object or undefined");
-  }
-  return assertThisInitialized(self);
-}
-module.exports = _possibleConstructorReturn, module.exports.__esModule = true, module.exports["default"] = module.exports;
-
-/***/ }),
-
-/***/ "../node_modules/@babel/runtime/helpers/setPrototypeOf.js":
+  \***************************************************************************/(e,t,r)=>{var o=r(/*! ./typeof.js */"../node_modules/@babel/runtime/helpers/typeof.js").default,s=r(/*! ./assertThisInitialized.js */"../node_modules/@babel/runtime/helpers/assertThisInitialized.js");e.exports=function(e,t){if(t&&("object"===o(t)||"function"==typeof t))return t;if(void 0!==t)throw new TypeError("Derived constructors may only return object or undefined");return s(e)},e.exports.__esModule=!0,e.exports.default=e.exports},"../node_modules/@babel/runtime/helpers/setPrototypeOf.js":
 /*!****************************************************************!*\
   !*** ../node_modules/@babel/runtime/helpers/setPrototypeOf.js ***!
-  \****************************************************************/
-/***/ ((module) => {
-
-function _setPrototypeOf(o, p) {
-  module.exports = _setPrototypeOf = Object.setPrototypeOf ? Object.setPrototypeOf.bind() : function _setPrototypeOf(o, p) {
-    o.__proto__ = p;
-    return o;
-  }, module.exports.__esModule = true, module.exports["default"] = module.exports;
-  return _setPrototypeOf(o, p);
-}
-module.exports = _setPrototypeOf, module.exports.__esModule = true, module.exports["default"] = module.exports;
-
-/***/ }),
-
-/***/ "../node_modules/@babel/runtime/helpers/toPrimitive.js":
+  \****************************************************************/e=>{function t(r,o){return e.exports=t=Object.setPrototypeOf?Object.setPrototypeOf.bind():function(e,t){return e.__proto__=t,e},e.exports.__esModule=!0,e.exports.default=e.exports,t(r,o)}e.exports=t,e.exports.__esModule=!0,e.exports.default=e.exports},"../node_modules/@babel/runtime/helpers/toPrimitive.js":
 /*!*************************************************************!*\
   !*** ../node_modules/@babel/runtime/helpers/toPrimitive.js ***!
-  \*************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-var _typeof = (__webpack_require__(/*! ./typeof.js */ "../node_modules/@babel/runtime/helpers/typeof.js")["default"]);
-function _toPrimitive(input, hint) {
-  if (_typeof(input) !== "object" || input === null) return input;
-  var prim = input[Symbol.toPrimitive];
-  if (prim !== undefined) {
-    var res = prim.call(input, hint || "default");
-    if (_typeof(res) !== "object") return res;
-    throw new TypeError("@@toPrimitive must return a primitive value.");
-  }
-  return (hint === "string" ? String : Number)(input);
-}
-module.exports = _toPrimitive, module.exports.__esModule = true, module.exports["default"] = module.exports;
-
-/***/ }),
-
-/***/ "../node_modules/@babel/runtime/helpers/toPropertyKey.js":
+  \*************************************************************/(e,t,r)=>{var o=r(/*! ./typeof.js */"../node_modules/@babel/runtime/helpers/typeof.js").default;e.exports=function(e,t){if("object"!==o(e)||null===e)return e;var r=e[Symbol.toPrimitive];if(void 0!==r){var s=r.call(e,t||"default");if("object"!==o(s))return s;throw new TypeError("@@toPrimitive must return a primitive value.")}return("string"===t?String:Number)(e)},e.exports.__esModule=!0,e.exports.default=e.exports},"../node_modules/@babel/runtime/helpers/toPropertyKey.js":
 /*!***************************************************************!*\
   !*** ../node_modules/@babel/runtime/helpers/toPropertyKey.js ***!
-  \***************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-var _typeof = (__webpack_require__(/*! ./typeof.js */ "../node_modules/@babel/runtime/helpers/typeof.js")["default"]);
-var toPrimitive = __webpack_require__(/*! ./toPrimitive.js */ "../node_modules/@babel/runtime/helpers/toPrimitive.js");
-function _toPropertyKey(arg) {
-  var key = toPrimitive(arg, "string");
-  return _typeof(key) === "symbol" ? key : String(key);
-}
-module.exports = _toPropertyKey, module.exports.__esModule = true, module.exports["default"] = module.exports;
-
-/***/ })
-
-}]);
-//# sourceMappingURL=82916c9aba5712bca47c.bundle.js.map
+  \***************************************************************/(e,t,r)=>{var o=r(/*! ./typeof.js */"../node_modules/@babel/runtime/helpers/typeof.js").default,s=r(/*! ./toPrimitive.js */"../node_modules/@babel/runtime/helpers/toPrimitive.js");e.exports=function(e){var t=s(e,"string");return"symbol"===o(t)?t:String(t)},e.exports.__esModule=!0,e.exports.default=e.exports}}]);

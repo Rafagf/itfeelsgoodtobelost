@@ -1,4 +1,1 @@
-if ( undefined === window.kirki || 'undefined' === typeof window.kirki ) {
-	window.kirki = {};
-}
-window.kirki.l10n = kirkiL10n;
+void 0!==window.kirki&&void 0!==window.kirki||(window.kirki={}),window.kirki.l10n=kirkiL10n;
